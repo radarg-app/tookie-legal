@@ -1,0 +1,974 @@
+# Tookie: llms-full.txt
+
+https://tookieapps.com/
+
+The full content of the site in plain text, in English and Spanish, with the terms of service and the privacy policy.
+Todo el contenido del sitio en texto plano, en inglés y en español, con los términos del servicio y la política de privacidad.
+
+---
+
+# Tookie (English)
+
+URL: https://tookieapps.com/
+
+## Where did your money go this month?
+
+Tookie is the expense tracker and budget app for iPhone that helps you spend less, not just keep records. Log an expense in seconds, think twice before you buy and save for what you want, with Nara by your side.
+
+Free to start · 3-day Tookie+ free trial · 16 languages
+
+## Tookie at a glance
+
+Tookie is a personal finance app for iPhone that helps you track your spending and save money. On the free plan you log expenses and income by hand or with a photo of the receipt, which AI reads for you, and set up your first savings goal. With Tookie+, the paid plan, you add budgets by category, “Should I buy it?” (how many hours of work a purchase costs you), Shopping block, fixed costs and installments that log themselves, and your net worth. Its features are inspired by behavioral science studies, and Nara, the app’s helper, keeps you company along the way.
+
+- What it is: A personal finance app to track your expenses and income, set budgets, save for your goals and see your net worth.
+- Who it’s for: People who want to know where their money goes, buy less on impulse and save for something specific, without spreadsheets.
+- Platforms: iPhone (iOS).
+- Price: Free to start. Tookie+ costs US$29.99 a year or US$5.99 a month, with a 3-day free trial for new subscribers.
+- How expenses get in: By hand, in seconds, or with a photo of the receipt that AI reads. It doesn’t connect to your bank.
+- Languages: 16, including English, Spanish, Portuguese, French, German, Italian, Chinese, Japanese and Korean.
+- Currencies: 38. Each expense keeps its currency, and totals are converted to your main currency.
+- Privacy: It doesn’t sell your data, show ads or track you across other apps. A receipt photo is only used to read it and isn’t stored by Tookie.
+- Science: Its features are inspired by published behavioral science studies.
+- Who makes it: Tookie is developed and operated by Santino Castrataro.
+
+- Free plan: 5 receipt scans a month · 1 savings goal · 3 custom expense categories · 3 custom income categories
+- Pricing (in US dollars, as of 2026-11-16; the store shows the price in your currency): Tookie+ US$5.99 per month · Tookie+ US$29.99 per year
+- App languages (16): Español [es] (+ Español Latino [es-419]), English (US) [en-US], English (UK) [en-GB], Português [pt-BR], Français [fr], Deutsch [de], Italiano [it], Nederlands [nl], Polski [pl], Svenska [sv], Norsk [no], Dansk [da], Türkçe [tr], 简体中文 [zh-Hans], 日本語 [ja], 한국어 [ko]
+
+## What you’ll get out of Tookie
+
+Know where your money goes, buy less on impulse and reach what you want.
+
+- Know where your money goes: Every expense lands in its category, and when you save it you see how much you’ve spent there this month. The Summary tells you how much you have left.
+- Buy less on impulse: With Tookie+, see how many hours of work a purchase costs before you make it. If you’re not sure, sleep on it or put the stores that tempt you on pause.
+- Reach your goals: Put an amount on what you want, a trip or an emergency fund, and see how much you still need. With Tookie+, what you decide not to spend can go straight to a goal.
+- A habit that lasts, guilt-free: Your streak gets one rest day a week, the weekly review is a single question per purchase, and the month’s wrap-up leaves you just one thing to try.
+
+## Everything Tookie does
+
+The app’s features, one by one, and which are free and which come with Tookie+.
+
+### Log an expense in seconds (Free)
+
+Tap +, type the amount on the app’s keypad and pick a category. Income works the same way, and every transaction can be in any of 38 currencies.
+
+- When you save, you see how much you’ve spent in that category this month.
+- Expenses shows every transaction, day by day: swipe a row to edit or delete it.
+- If you paid in another currency, change it right there.
+
+### Scan receipts with AI (Free and Tookie+)
+
+Snap the receipt, or pick a screenshot of an online purchase from your gallery: the built-in AI receipt scanner reads the store, the amount, the date and the category, and you check it before saving.
+
+- Each detail shows whether it was found (a check) or not (a cross).
+- The photo is only used to read the receipt and isn’t stored by Tookie.
+- Free plan: 5 scans a month. With Tookie+, unlimited.
+
+### Before you buy, see what it really costs (Tookie+)
+
+“Should I buy it?” is a Tookie+ tool: enter the price and see how many hours of work it costs, what that money could be worth invested and how much of your goal it would cover.
+
+- “I won’t buy it” adds what you didn’t spend to Money saved or to a goal.
+- “I’ll think about it tomorrow” asks you the next day if you still want it.
+- Hours are based on the salary you enter in Profile → Salary.
+
+### Put the stores that tempt you on pause (Tookie+)
+
+With Shopping block, a Tookie+ feature, you choose the shopping apps you’d rather avoid on impulse. If you try to open one, Tookie reminds you of the decision you made.
+
+- A single button, “I’ll wait”, and a count of how many times you chose to wait this week.
+- To change your mind you go back to Tookie: the block screen can’t unlock the store.
+- It uses Apple’s Screen Time, and Tookie never sees which apps you have.
+
+### Budgets that warn you ahead of time (Tookie+)
+
+With Tookie+ you decide how much you want to spend in each category, in money or in number of purchases, and Tookie warns you before you go over.
+
+- If a month gets tight, raise it just for that month or move money from another category.
+- After 60 days of use, it compares each month with your usual, even if you went over.
+
+### Savings goals and net worth (Free and Tookie+)
+
+Give what you want a name and an amount, and see how much you still need. Each goal moves forward with your contributions or with what’s left over each month.
+
+- Goals on the free plan: 1. With Tookie+, as many as you want.
+- With Tookie+, the Net worth tab adds up your savings, investments and debts: what you own minus what you owe.
+- Each debt shows how much you’ve paid off.
+
+### Weekly review and monthly wrap-up (Free)
+
+Once a week, Tookie asks about a few of your purchases: if you could choose again, would you make it again? From the 1st to the 7th of each month, it tells you how last month went.
+
+- Up to 5 purchases a week, and you always decide what counts.
+- The monthly wrap-up shows one thing that went well and just one thing to try.
+
+### Streaks, achievements and accessories for Nara (Free and Tookie+)
+
+Every day you open Tookie adds to your streak, with one rest day a week. With achievements, Nara earns accessories to wear.
+
+- The flame changes color: blue from 5 days and purple from 15.
+- 47 achievements and 58 accessories, 16 of which you can wear without earning anything.
+- Streaks are for everyone; achievements and accessories come with Tookie+.
+
+### How many hours of work does it cost?
+
+Try the idea behind “Should I buy it?” right here: enter a price and how much you earn per hour.
+
+An estimate for information only, assuming a 10% annual return. It isn’t financial advice, and what you type never leaves this page.
+
+### And also
+
+- iPhone widgets (Tookie+): Your month, Budgets, Before you buy and Add on your Home Screen, plus Lock Screen widgets for your balance, budgets and goals.
+- 16 languages: English, Spanish, Portuguese, French, German, Italian, Chinese, Japanese, Korean and more.
+- 38 currencies: Each expense in its own currency; totals in your main currency at today’s exchange rate.
+- Hide balances: Tap the eye and every amount is covered, for when you’re in public.
+- Fixed costs and installments (Tookie+): Rent or a subscription logs itself every month, and an installment purchase adds one installment a month until it’s paid off.
+- Compound interest and exchange rates (Tookie+): See how your money grows over the years and convert an amount to another currency.
+- Your expected paycheck (Tookie+): Enter how much you earn and on which day, and Tookie notes it as expected income for you to confirm.
+- Reminders from Nara: What matters, without flooding you: choose them by topic in Profile → Notifications.
+- Weather on your Summary: If you like, the Summary sky shows the weather where you are, using your approximate location.
+- Tookie tour: Nara walks you through the app one button at a time. Watch it again anytime from Profile.
+
+## Tookie is built on behavioral science
+
+Every feature comes from a published study on how we make decisions about money. Here’s how it looks in the app.
+
+- Shopping block: A pause before opening certain apps helped people open them less. If you try to open a store you paused, Tookie reminds you of your decision. David J. Grüning, Frederik Riedel, Philipp Lorenz-Spreen (2023). "Directing smartphone use through the self-nudge app one sec". Proceedings of the National Academy of Sciences (PNAS). https://doi.org/10.1073/pnas.2213114120
+- Should I buy it?: When we shop, we often don’t think about what else that money could do. “Should I buy it?” shows how much of your goal that purchase would cover. Shane Frederick, Nathan Novemsky, Jing Wang, Ravi Dhar, Stephen Nowlis (2009). "Opportunity Cost Neglect". Journal of Consumer Research. https://doi.org/10.1086/599764
+- Category totals: We’re bad at remembering how much we’ve already spent. As soon as you save an expense, Tookie shows your running total for that category. Amit Poddar, Cameron M. Ellis, Timucin Ozcan (2015). "Imperfect Recall: The Impact of Composite Spending Information Disclosure on Credit Card Spending". Journal of Consumer Policy. https://doi.org/10.1007/s10603-014-9279-8
+- Budgets: Setting a limit can lower spending, even if you go over. Tookie compares your month with your usual, even if you miss your target. Marcel F. Lukas, Ray Charles “Chuck” Howard (2023). "The Influence of Budgets on Consumer Spending". Journal of Consumer Research. https://doi.org/10.1093/jcr/ucac024
+- Weekly review: Remembering what you’ve already paid shapes what you decide next. Once a week, Tookie asks whether you’d choose some of your purchases again. Dilip Soman (2001). "Effects of Payment Mechanism on Spending Behavior: The Role of Rehearsal and Immediacy of Payments". Journal of Consumer Research. https://doi.org/10.1086/319621
+
+These are academic references: the authors and their universities do not endorse, sponsor or work with Tookie. Some features are Tookie’s own adaptations, and the amounts in the examples are illustrative.
+
+## Meet Nara
+
+Nara is Tookie’s helper. Her face changes with how your month is going, she celebrates your achievements and keeps you company throughout the app, without ever scolding you.
+
+The app has 58 accessories to dress her your way, one per spot. Dressing her up comes with Tookie+.
+
+## Start in three steps
+
+1. Tell Nara what you want to achieve: She asks a few short questions and builds your plan. If you like, you set up your first goal right there.
+2. Log your expenses: By hand in seconds or with a photo of the receipt. Your income too.
+3. See how you’re doing and adjust: The Summary shows how much you have left. Once a week you review your purchases.
+
+## Pricing
+
+Start for free. When you want more, Tookie+ adds every tool, with a 3-day free trial.
+
+### Free: US$0
+
+The essentials to know where your money goes.
+
+- Log expenses and income, with history and filters
+- AI receipt scanning: 5 a month
+- Custom categories: 3 for expenses and 3 for income
+- Savings goals: 1
+- Weekly review and monthly wrap-up
+- Streak with one rest day a week
+- 38 currencies and 16 languages
+
+### Tookie+
+
+Every tool to save more and think before you buy.
+
+- Yearly: US$29.99 per year (equal to US$2.50 per month)
+- Monthly: US$5.99 per month (month-to-month flexibility)
+
+3-day free trial for new subscribers
+
+- Unlimited receipt scans
+- Unlimited categories and goals
+- Budgets by category, with a heads-up before you go over
+- “Should I buy it?”, compound interest, exchange rates and Money saved
+- Shopping block
+- Fixed costs, installments and your salary, logged for you
+- Net worth: what you own minus what you owe
+- iPhone widgets
+- Achievements, medals and accessories for Nara
+
+If it’s your first time with Tookie+, both plans start with a 3-day free trial: cancel at least 24 hours before it ends and you won’t be charged. Cancel anytime from your Apple account; cancellation takes effect at the end of the period you already paid for.
+
+Prices in US dollars. Your store shows the price in your currency, which may vary by country.
+
+## Frequently asked questions
+
+### Is Tookie free?
+
+Yes, Tookie is free to start. On the free plan you log expenses and income, use your history and filters, scan 5 receipts a month and set up your first savings goal. Tookie+ is the paid plan, with the rest of the tools.
+
+### What does Tookie+ include and how much is it?
+
+Tookie+ costs US$29.99 a year or US$5.99 a month. If it’s your first time with Tookie+, both plans start with a 3-day free trial. It adds unlimited scans, budgets, “Should I buy it?”, Shopping block, fixed costs and installments, your net worth, unlimited goals and categories, iPhone widgets, and achievements and accessories for Nara. Your store shows the price in your currency.
+
+### How do I cancel Tookie+?
+
+You can cancel anytime from the store where you bought it. On iPhone: Settings → your name → Subscriptions, or “Manage subscription” inside Tookie. Cancellation takes effect at the end of the period you already paid for, and if you cancel at least 24 hours before the free trial ends, you won’t be charged.
+
+### Does Tookie connect to my bank?
+
+No. Tookie doesn’t connect to your bank, your cards or digital wallets, and it never asks for their passwords. You add every transaction yourself: by hand, in seconds, or with a photo of the receipt.
+
+### How does receipt scanning work?
+
+You snap the receipt, or pick a screenshot of an online purchase from your gallery, and AI reads the store, the amount, the date and the category. Before saving you check every detail and can change it; if the receipt has no readable date, today’s date is used. The free plan includes 5 scans a month, and Tookie+ has no limit.
+
+### What happens to the receipt photo?
+
+The photo is only used to read the receipt and is not stored, either in your account or on Tookie’s servers. It travels encrypted to Tookie’s server, which passes it to OpenAI to read it: if the receipt shows your personal details, such as your name, OpenAI can see them. What’s kept is the expense you confirm and a record of the scan with what was read, without the photo. The details are in the Privacy policy (https://tookieapps.com/privacidad.html#en).
+
+### What happens to my data?
+
+Your data is stored so the app works and it’s there when you sign in again, including from another phone. Tookie doesn’t sell your data, doesn’t show ads and doesn’t track you across other apps or websites. Everything travels encrypted, and one account can’t read another’s data. More in the Privacy policy (https://tookieapps.com/privacidad.html#en).
+
+### How do I delete my account?
+
+In the app, go to Profile → Delete account. It’s permanent: your account and your data are erased. Deleting your account doesn’t cancel a subscription, so if you pay for Tookie+, cancel it in the store first.
+
+### Which phones does Tookie work on?
+
+Tookie is an iPhone app, and you get it from the App Store.
+
+### Which languages and currencies does it support?
+
+Tookie is available in 16 languages: Spanish, US and UK English, Portuguese, French, German, Italian, Dutch, Polish, Swedish, Norwegian, Danish, Turkish, Simplified Chinese, Japanese and Korean. Each expense keeps its own currency, out of 38, and totals are converted to your main currency.
+
+### What is Shopping block?
+
+It’s a Tookie+ feature that puts the shopping apps you choose on pause. If you try to open one, a Tookie screen appears with a single button, “I’ll wait”, and to open it again you have to change your decision in Tookie. It uses Apple’s Screen Time, and Tookie never sees which apps you have. It depends on your iPhone’s permissions and may not be available on every device.
+
+### Who is Nara?
+
+Nara is Tookie’s helper. She keeps you company throughout the app, her face changes with how your month is going, she celebrates your achievements and she walks you through it in the Tookie tour. With Tookie+ you can dress her up: 16 accessories are ready to wear and the rest you earn with achievements.
+
+### How is Tookie different from other expense trackers?
+
+Tookie is designed to help you spend less, not just to keep records. Before you buy, it shows how many hours of work something costs and lets you put the stores that tempt you on pause; its features are inspired by behavioral science studies; it doesn’t connect to your bank, so you decide what goes in; and it doesn’t scold you: your streak gets a rest day and Nara keeps you company.
+
+## Tookie is almost here
+
+Tookie is coming soon to the App Store for iPhone. Nara is getting ready.
+
+- App Store (iPhone): Coming soon
+
+---
+
+# Tookie (Español)
+
+Dirección: https://tookieapps.com/es/
+
+## ¿A dónde se fue tu dinero este mes?
+
+Tookie es la app de gastos y presupuesto para iPhone que te ayuda a gastar menos, no solo a anotar. Cargá un gasto en segundos, pensá dos veces antes de comprar y ahorrá para lo que querés, con Nara a tu lado.
+
+Gratis para empezar · 3 días de prueba de Tookie+ · 16 idiomas
+
+## Tookie en pocas palabras
+
+Tookie es una app de finanzas personales para iPhone que te ayuda a controlar tus gastos y a ahorrar. Con el plan gratis cargás gastos e ingresos a mano o con una foto del ticket, que lee una IA, y armás tu primera meta de ahorro. Con Tookie+, el plan pago, sumás presupuestos por categoría, «¿Lo compro?» (cuántas horas de trabajo te cuesta una compra), el Bloqueo de compras, gastos fijos y cuotas que se cargan solos, y tu patrimonio. Sus funciones se inspiran en estudios de ciencia del comportamiento y te acompaña Nara, la ayudante de la app.
+
+- Qué es: Una app de finanzas personales para llevar tus gastos e ingresos, armar presupuestos, ahorrar para tus metas y ver tu patrimonio.
+- Para quién: Para quien quiere saber a dónde va su dinero, comprar menos por impulso y ahorrar para algo concreto, sin planillas.
+- Plataformas: iPhone (iOS).
+- Precio: Gratis para empezar. Tookie+ cuesta US$ 29,99 por año o US$ 5,99 por mes, con 3 días de prueba gratis para quien se suscribe por primera vez.
+- Cómo se cargan los gastos: A mano, en segundos, o con una foto del ticket que lee una IA. No se conecta a tu banco.
+- Idiomas: 16, entre ellos español, inglés, portugués, francés, alemán, italiano, chino, japonés y coreano.
+- Monedas: 38. Cada gasto queda en su moneda y los totales se pasan a tu moneda principal.
+- Privacidad: No vende tus datos, no muestra publicidad y no te rastrea en otras apps. La foto de un ticket se usa solo para leerlo y Tookie no la guarda.
+- Ciencia: Sus funciones se inspiran en estudios publicados de ciencia del comportamiento.
+- Quién lo hace: Tookie lo desarrolla y lo opera Santino Castrataro.
+
+- Plan gratis: 5 escaneos de tickets por mes · 1 meta de ahorro · 3 categorías propias de gastos · 3 categorías propias de ingresos
+- Precios (en dólares, al 2026-11-16; la tienda muestra el precio en tu moneda): Tookie+ US$ 5,99 por mes · Tookie+ US$ 29,99 por año
+- Idiomas de la app (16): Español [es] (+ Español Latino [es-419]), English (US) [en-US], English (UK) [en-GB], Português [pt-BR], Français [fr], Deutsch [de], Italiano [it], Nederlands [nl], Polski [pl], Svenska [sv], Norsk [no], Dansk [da], Türkçe [tr], 简体中文 [zh-Hans], 日本語 [ja], 한국어 [ko]
+
+## Lo que vas a lograr con Tookie
+
+Saber a dónde va tu dinero, comprar menos por impulso y llegar a lo que querés.
+
+- Sabé a dónde va tu dinero: Cada gasto queda en su categoría y, al guardarlo, ves cuánto llevás ahí este mes. El Resumen te dice cuánto te queda.
+- Comprá menos por impulso: Con Tookie+, antes de comprar mirá cuántas horas de trabajo te cuesta. Si dudás, dejalo para mañana o poné en pausa las tiendas que te tientan.
+- Llegá a tus metas: Ponele un monto a lo que querés lograr, un viaje o un fondo de emergencia, y mirá cuánto te falta. Con Tookie+, lo que decidís no gastar puede ir directo a una meta.
+- Un hábito que dura, sin culpa: La racha tiene un día de descanso por semana, la revisión semanal es una sola pregunta por compra y el cierre del mes te deja una sola cosa para probar.
+
+## Todo lo que hace Tookie
+
+Las funciones de la app, una por una, y cuál es gratis y cuál es de Tookie+.
+
+### Cargá un gasto en segundos (Gratis)
+
+Tocá +, escribí el monto con el teclado de la app y elegí la categoría. Un ingreso se carga igual, y cada movimiento puede ir en cualquiera de las 38 monedas.
+
+- Al guardar, ves cuánto llevás en esa categoría este mes.
+- En Gastos está cada movimiento, día por día: deslizá una fila para editarla o borrarla.
+- Si fue en otra moneda, la cambiás ahí mismo.
+
+### Escaneá tickets con IA (Gratis y Tookie+)
+
+Sacale una foto al ticket o elegí de la galería una captura de una compra online. La IA lee el comercio, el monto, la fecha y la categoría, y vos revisás antes de guardar.
+
+- Cada dato muestra si lo encontró (con un tilde) o no (con una cruz).
+- La foto se usa solo para leer el ticket y Tookie no la guarda.
+- Plan gratis: 5 escaneos por mes. Con Tookie+, sin límite.
+
+### Antes de comprar, mirá cuánto te cuesta (Tookie+)
+
+«¿Lo compro?» es una herramienta de Tookie+: escribís el precio y ves cuántas horas de trabajo te cuesta, cuánto valdría ese dinero invertido y qué parte de tu meta cubriría.
+
+- «No lo compro» suma lo que no gastaste a Dinero ahorrado o a una meta.
+- «Lo pienso mañana» te pregunta al día siguiente si todavía lo querés.
+- Las horas salen del sueldo que cargás en Perfil → Sueldo.
+
+### Poné en pausa las tiendas que te tientan (Tookie+)
+
+Con el Bloqueo de compras, una función de Tookie+, elegís las apps de compras que preferís evitar por impulso. Si intentás abrir una, Tookie te recuerda la decisión que tomaste.
+
+- Un solo botón, «Elijo esperar», y la cuenta de cuántas veces elegiste esperar esta semana.
+- Para cambiar tu decisión volvés a Tookie: desde la pantalla de bloqueo no se desbloquea la tienda.
+- Usa Tiempo en pantalla de Apple y Tookie no ve qué apps tenés.
+
+### Presupuestos que te avisan antes (Tookie+)
+
+Con Tookie+ decidís cuánto querés gastar en cada categoría, en dinero o en cantidad de compras, y Tookie te avisa antes de que te pases.
+
+- Si un mes se complica, lo subís solo ese mes o movés de otra categoría.
+- Después de 60 días de uso, compara cada mes con lo habitual, aunque te hayas pasado.
+
+### Metas de ahorro y patrimonio (Gratis y Tookie+)
+
+Ponele nombre y monto a lo que querés lograr y mirá cuánto te falta. Cada meta avanza con tus aportes o con lo que te sobra del mes.
+
+- Metas en el plan gratis: 1. Con Tookie+, todas las que quieras.
+- Con Tookie+, en Patrimonio sumás ahorros, inversiones y deudas, y ves tu patrimonio neto.
+- Cada deuda muestra cuánto llevás pagado.
+
+### Revisión semanal y cierre de mes (Gratis)
+
+Una vez por semana, Tookie te pregunta por algunas de tus compras: si pudieras elegir de nuevo, ¿la volverías a hacer? Del 1 al 7 de cada mes te cuenta cómo te fue el mes anterior.
+
+- Hasta 5 compras por semana, y el criterio siempre lo definís vos.
+- En el cierre del mes ves una cosa que salió bien y una sola para probar.
+
+### Racha, logros y accesorios para Nara (Gratis y Tookie+)
+
+Cada día que abrís Tookie suma a tu racha, con un día de descanso por semana. Con los logros, Nara gana accesorios para vestirse.
+
+- La llama cambia de color: azul desde los 5 días y violeta desde los 15.
+- 47 logros y 58 accesorios, de los que 16 se usan sin ganar ningún logro.
+- La racha es para todos; los logros y los accesorios, de Tookie+.
+
+### ¿Cuántas horas de trabajo cuesta?
+
+Probá la idea de «¿Lo compro?» acá mismo: escribí un precio y cuánto ganás por hora.
+
+Es una estimación con un 10 % anual de rendimiento, con fines informativos: no es asesoramiento financiero. Lo que escribís no sale de esta página.
+
+### Y además
+
+- Widgets en el iPhone (Tookie+): Tu mes, Presupuestos, Antes de comprar y Cargar en la pantalla de inicio, y en la bloqueada tu balance, tus presupuestos y tus metas.
+- 16 idiomas: Español, inglés, portugués, francés, alemán, italiano, chino, japonés, coreano y más.
+- 38 monedas: Cada gasto en su moneda; los totales, en tu moneda principal al tipo de cambio del día.
+- Ocultar saldos: Tocá el ojito y se tapan todos los montos, por si estás en público.
+- Gastos fijos y cuotas (Tookie+): El alquiler o una suscripción se cargan solos cada mes, y una compra en cuotas suma una cuota por mes hasta terminar.
+- Interés compuesto y tipo de cambio (Tookie+): Mirá cuánto crece tu dinero con los años y pasá un monto a otra moneda.
+- Tu sueldo, previsto (Tookie+): Cargá cuánto cobrás y qué día, y Tookie lo deja anotado como ingreso previsto para que lo confirmes.
+- Avisos con Nara: Lo importante, sin llenarte de avisos: los elegís por tema en Perfil → Notificaciones.
+- El clima en tu Resumen: Si querés, el cielo del Resumen muestra el clima de tu zona, con tu ubicación aproximada.
+- Paseo por Tookie: Nara te muestra la app botón por botón. Lo volvés a ver cuando quieras desde Perfil.
+
+## Tookie se basa en la ciencia del comportamiento
+
+Cada función nace de un estudio publicado sobre cómo decidimos con el dinero. Así se ve en la app.
+
+- Bloqueo de compras: Una pausa antes de abrir ciertas apps ayudó a que se abrieran menos. Si intentás entrar a una tienda que pausaste, Tookie te recuerda tu decisión. David J. Grüning, Frederik Riedel, Philipp Lorenz-Spreen (2023). "Directing smartphone use through the self-nudge app one sec". Proceedings of the National Academy of Sciences (PNAS). https://doi.org/10.1073/pnas.2213114120
+- ¿Lo compro?: Al comprar, muchas veces no pensamos en qué más podríamos hacer con ese dinero. «¿Lo compro?» te muestra qué parte de tu meta cubriría esa compra. Shane Frederick, Nathan Novemsky, Jing Wang, Ravi Dhar, Stephen Nowlis (2009). "Opportunity Cost Neglect". Journal of Consumer Research. https://doi.org/10.1086/599764
+- Total por categoría: Recordamos mal cuánto llevamos gastado. Apenas guardás un gasto, Tookie te muestra cuánto llevás en esa categoría. Amit Poddar, Cameron M. Ellis, Timucin Ozcan (2015). "Imperfect Recall: The Impact of Composite Spending Information Disclosure on Credit Card Spending". Journal of Consumer Policy. https://doi.org/10.1007/s10603-014-9279-8
+- Presupuestos: Ponerte un límite puede bajar el gasto, aunque te pases. Tookie compara tu mes con lo habitual, aunque no llegues a tu objetivo. Marcel F. Lukas, Ray Charles “Chuck” Howard (2023). "The Influence of Budgets on Consumer Spending". Journal of Consumer Research. https://doi.org/10.1093/jcr/ucac024
+- Revisión semanal: Recordar lo que ya pagaste influye en lo que decidís después. Una vez por semana, Tookie te pregunta si volverías a elegir algunas compras. Dilip Soman (2001). "Effects of Payment Mechanism on Spending Behavior: The Role of Rehearsal and Immediacy of Payments". Journal of Consumer Research. https://doi.org/10.1086/319621
+
+Son referencias académicas: los autores y sus universidades no avalan, patrocinan ni colaboran con Tookie. Algunas funciones son adaptaciones de Tookie y los montos de los ejemplos son ilustrativos.
+
+## Conocé a Nara
+
+Nara es la ayudante de Tookie. Cambia de cara según cómo viene tu mes, festeja tus logros y te acompaña en toda la app, sin retarte nunca.
+
+En la app hay 58 accesorios para vestirla a tu gusto, uno por zona. Vestirla es parte de Tookie+.
+
+## Empezás en tres pasos
+
+1. Contale a Nara qué querés lograr: Te hace unas preguntas cortas y arma tu plan. Si querés, ahí mismo armás tu primera meta.
+2. Cargá tus gastos: A mano en segundos o con una foto del ticket. Tus ingresos también.
+3. Mirá cómo vas y ajustá: El Resumen te muestra cuánto te queda. Una vez por semana revisás tus compras.
+
+## Precios
+
+Empezá gratis. Cuando quieras más, Tookie+ suma todas las herramientas, con 3 días de prueba gratis.
+
+### Gratis: US$ 0
+
+Lo esencial para saber a dónde va tu dinero.
+
+- Carga de gastos e ingresos, con historial y filtros
+- Escaneo de tickets con IA: 5 por mes
+- Categorías propias: 3 de gastos y 3 de ingresos
+- Metas de ahorro: 1
+- Revisión semanal y cierre de mes
+- Racha con un día de descanso por semana
+- 38 monedas y 16 idiomas
+
+### Tookie+
+
+Todas las herramientas para ahorrar y pensar antes de comprar.
+
+- Anual: US$ 29,99 por año (equivale a US$ 2,50 por mes)
+- Mensual: US$ 5,99 por mes (flexibilidad mes a mes)
+
+3 días de prueba gratis para quien se suscribe por primera vez
+
+- Escaneos de tickets sin límite
+- Categorías y metas sin límite
+- Presupuestos por categoría, con aviso antes de pasarte
+- «¿Lo compro?», interés compuesto, tipo de cambio y Dinero ahorrado
+- Bloqueo de compras
+- Gastos fijos, cuotas y tu sueldo, que se cargan solos
+- Patrimonio: lo que tenés menos lo que debés
+- Widgets en el iPhone
+- Logros, medallas y accesorios para Nara
+
+Si es tu primera vez con Tookie+, los dos planes empiezan con 3 días de prueba gratis: si cancelás al menos 24 horas antes de que termine, no se cobra nada. Cancelás cuando quieras desde tu cuenta de Apple, y rige al final del período ya pagado.
+
+Precios en dólares estadounidenses. En tu tienda vas a ver el precio en tu moneda, que puede variar según el país.
+
+## Preguntas frecuentes
+
+### ¿Tookie es gratis?
+
+Sí, Tookie es gratis para empezar. Con el plan gratis cargás gastos e ingresos, usás el historial y los filtros, escaneás 5 tickets por mes y armás tu primera meta de ahorro. Tookie+ es el plan pago, con el resto de las herramientas.
+
+### ¿Qué incluye Tookie+ y cuánto cuesta?
+
+Tookie+ cuesta US$ 29,99 por año o US$ 5,99 por mes. Si es tu primera vez con Tookie+, los dos planes empiezan con 3 días de prueba gratis. Suma escaneos sin límite, presupuestos, «¿Lo compro?», el Bloqueo de compras, gastos fijos y cuotas, tu patrimonio, metas y categorías sin límite, widgets en el iPhone, y logros y accesorios para Nara. En tu tienda vas a ver el precio en tu moneda.
+
+### ¿Cómo cancelo Tookie+?
+
+Lo cancelás cuando quieras desde la tienda donde lo compraste. En el iPhone: Ajustes → tu nombre → Suscripciones, o «Gestionar suscripción» dentro de Tookie. La cancelación rige al final del período ya pagado, y si cancelás al menos 24 horas antes de que termine la prueba gratis, no se cobra nada.
+
+### ¿Tookie se conecta a mi banco?
+
+No. Tookie no se conecta a tu banco, a tus tarjetas ni a billeteras virtuales, y nunca te pide sus claves. Cada movimiento lo cargás vos: a mano, en segundos, o con una foto del ticket.
+
+### ¿Cómo funciona el escaneo de tickets?
+
+Le sacás una foto al ticket, o elegís de la galería una captura de una compra online, y una IA lee el comercio, el monto, la fecha y la categoría. Antes de guardar revisás cada dato y lo podés cambiar; si el ticket no tiene una fecha legible, se usa la de hoy. En el plan gratis tenés 5 escaneos por mes y con Tookie+, sin límite.
+
+### ¿Qué pasa con la foto del ticket?
+
+La foto se usa solo para leer el ticket y no se guarda, ni en tu cuenta ni en los servidores de Tookie. Viaja cifrada al servidor de Tookie, que se la pasa a OpenAI para leerla: si el ticket muestra datos tuyos, como tu nombre, OpenAI los puede ver. Quedan el gasto que confirmás y un registro del escaneo con lo que se leyó, sin la foto. El detalle está en la Política de privacidad (https://tookieapps.com/privacidad.html#es).
+
+### ¿Qué pasa con mis datos?
+
+Tus datos se guardan para que la app funcione y estén cuando volvés a entrar, también desde otro teléfono. Tookie no vende tus datos, no muestra publicidad y no te rastrea en otras apps ni sitios. Todo viaja cifrado y una cuenta no puede leer los datos de otra. Más detalle en la Política de privacidad (https://tookieapps.com/privacidad.html#es).
+
+### ¿Cómo borro mi cuenta?
+
+Desde la app, en Perfil → Eliminar cuenta. Es permanente: se borran tu cuenta y tus datos. Borrar la cuenta no cancela una suscripción, así que si pagás Tookie+, cancelalo antes en la tienda.
+
+### ¿En qué teléfonos funciona Tookie?
+
+Tookie es una app para iPhone y se descarga del App Store.
+
+### ¿En qué idiomas y monedas funciona?
+
+Tookie está en 16 idiomas: español, inglés de Estados Unidos y del Reino Unido, portugués, francés, alemán, italiano, neerlandés, polaco, sueco, noruego, danés, turco, chino simplificado, japonés y coreano. Cada gasto se guarda en su moneda, entre 38, y los totales se pasan a tu moneda principal.
+
+### ¿Qué es el Bloqueo de compras?
+
+Es una función de Tookie+ que pone en pausa las apps de compras que elegís. Si intentás abrir una, aparece una pantalla de Tookie con un solo botón, «Elijo esperar», y para volver a abrirla tenés que cambiar tu decisión desde Tookie. Usa Tiempo en pantalla de Apple y Tookie no ve qué apps tenés. Depende de los permisos del iPhone y puede no estar disponible en todos los dispositivos.
+
+### ¿Quién es Nara?
+
+Nara es la ayudante de Tookie. Te acompaña en toda la app, cambia de cara según cómo viene tu mes, festeja tus logros y te muestra cómo se usa en el Paseo por Tookie. Con Tookie+ la vestís: 16 accesorios se usan de entrada y el resto se gana con los logros.
+
+### ¿En qué se diferencia Tookie de otras apps de gastos?
+
+Tookie está pensado para que gastes menos, no solo para anotar. Antes de comprar te muestra cuántas horas de trabajo te cuesta y te deja poner en pausa las tiendas que te tientan; sus funciones se inspiran en estudios de ciencia del comportamiento; no se conecta a tu banco, así que vos decidís qué cargar; y no te reta: la racha tiene un día de descanso y Nara te acompaña.
+
+## Tookie llega muy pronto
+
+Tookie va a estar muy pronto en el App Store, para iPhone. Nara ya se está preparando.
+
+- App Store (iPhone): Muy pronto
+
+---
+
+# Terms of use (English)
+
+URL: https://tookieapps.com/terminos.html#en
+
+Last updated: November 17, 2026
+
+By downloading or using Tookie (“the app”) you agree to these terms. If you do not agree, do not use the app. The app is developed and operated by Santino Castrataro (“we”, “us”).
+
+If you downloaded Tookie from the App Store, these terms are in addition to Apple’s standard Licensed Application End User License Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). How we handle your data is explained in the Privacy policy (https://tookieapps.com/privacidad.html#en).
+
+## 1. What the app is
+
+Tookie is a personal tool to record and view your expenses, income, net worth, debts, budgets and savings goals. The calculations, projections and comparisons it shows (for example, how many hours of work a purchase is worth, how much an invested amount could grow, or how much you could save) are estimates for informational purposes only.
+
+Receipt scanning uses artificial intelligence and may misread some details. Before you save, the app shows you what it read so you can check and correct it.
+
+## 2. Not financial advice
+
+The app does not provide financial, investment, accounting or tax advice. We are not a bank or a financial institution. Decisions you make based on the information in the app are your responsibility. Consult a licensed professional before making significant financial decisions.
+
+## 3. Your account
+
+You need an account to use Tookie. In the App Store version, your account is created and opened with Sign in with Apple. You are responsible for the activity on your account and for keeping access to your Apple ID secure. The data you enter is yours, and you are responsible for its accuracy.
+
+## 4. Free plan, Tookie+ and payments
+
+- Free plan. You can use Tookie without paying, with some limits (for example, a number of receipt scans per month and a single savings goal).
+- Tookie+. Removes those limits and adds features. It is offered as a monthly subscription, an annual subscription or a one-time “lifetime” purchase.
+- Free trial. If it is your first time subscribing (under the App Store rules), the monthly and annual plans may include a 3-day free trial (with a promo code, the annual plan may come with a longer one). Unless you cancel at least 24 hours before the trial ends, the plan you chose is charged automatically.
+- Promotional offers. From time to time we may offer Tookie+ at a discount (for example, the annual plan at a lower price). Some offers are charged when you confirm the purchase; others, such as the one from a promo code, start with a free period (for example, one month) and then the offer price is charged. In both cases they renew at the price stated in the offer. Before you confirm, the purchase screen tells you which one applies to you.
+- Invite friends. If someone else uses your code to subscribe, you may receive rewards. What they are and the conditions that apply are explained in Profile → Invite friends.
+- Before you pay. The purchase screen shows you the price, how often it renews and whether it includes a free trial.
+- Payment. Payment is made through your App Store account: when you confirm the purchase or, if you start with a free trial, when the trial ends. Apple processes the payment, and RevenueCat, our subscription provider, validates the purchase to activate Tookie+. We never see your card details.
+- Automatic renewal. Subscriptions renew automatically at the end of each period, at the plan’s current price (or the price of the offer you accepted), unless you cancel at least 24 hours before the end of the current period.
+- How to cancel. In iPhone Settings → your name → Subscriptions, or with “Manage subscription” inside the app. Cancellation takes effect at the end of the period already paid; there are no refunds for partial periods. Refunds are handled by Apple under its policies.
+- Deleting your account does not cancel your subscription. If you pay for a subscription, cancel it in the App Store before deleting your account.
+- “Lifetime” purchase. A one-time payment, with no renewal, that gives access to Tookie+ for as long as the app exists and remains in operation.
+- Restore purchases. If you change phones or reinstall the app, you can get Tookie+ back with “Restore purchases”, using the same App Store account you purchased with.
+- Prices. They may vary by country and may change in the future; any price change to an active subscription will be notified to you under the App Store rules.
+
+## 5. Acceptable use
+
+You may not use the app for illegal activities, attempt to compromise its security, access other people’s data, or resell or reproduce the app without authorization.
+
+## 6. Service availability
+
+We make a reasonable effort for the app to work well, but it is provided “as is”, without any guarantee of uninterrupted availability or of being free of errors. We may update, suspend or discontinue features. We rely on third-party services (for example Apple, Supabase, RevenueCat, OpenAI, Expo, Open-Meteo and ExchangeRate-API) whose outages may affect the app. Some features depend on your phone’s permissions and capabilities (for example, Shopping block uses the iPhone’s Screen Time) and may not be available on every device.
+
+When you try to open one of the apps you chose, Shopping block shows a Tookie screen instead, to help you decide calmly. It does not block websites or other ways of buying, and you can turn it off at any time in Tools → Shopping block.
+
+## 7. Limitation of liability
+
+To the maximum extent permitted by law, we will not be liable for indirect or incidental damages or loss of data arising from the use of, or inability to use, the app. Our total liability is limited to the amount you paid for the app in the previous 12 months.
+
+## 8. Leaving and deleting your account
+
+You can stop using the app and delete your account at any time from Profile → Delete account. Deletion is permanent and erases your account data, as explained in the Privacy policy (https://tookieapps.com/privacidad.html#en). We may suspend accounts that breach these terms.
+
+## 9. This website
+
+This website explains what Tookie is and how it works. What it says about features and prices is for information only: the price that applies is the one the store shows you before you buy (section 4), and features may change with app updates (section 6). Links to other websites, such as the app stores, social networks or the studies we cite, take you to pages we do not control and that have their own terms.
+
+## 10. Changes to these terms
+
+We may modify these terms. If a change is significant, we will let you know within the app or on this page. Continuing to use the app means you accept the changes.
+
+## 11. Governing law
+
+These terms are governed by the laws of the Argentine Republic, without prejudice to any rights you have as a consumer in your country of residence.
+
+## 12. Contact
+
+Santino Castrataro
+castrataro.santinolucca@gmail.com
+
+---
+
+# Términos y condiciones de uso (Español)
+
+Dirección: https://tookieapps.com/terminos.html#es
+
+Última actualización: 17 de noviembre de 2026
+
+Al descargar o usar Tookie (“la app”) aceptás estos términos. Si no estás de acuerdo, no uses la app. La app la desarrolla y opera Santino Castrataro (“nosotros”).
+
+Si descargaste Tookie desde la App Store, estos términos se suman al Contrato de licencia de usuario final estándar de Apple (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) para apps. Cómo tratamos tus datos se explica en la Política de privacidad (https://tookieapps.com/privacidad.html#es).
+
+## 1. Qué es la app
+
+Tookie es una herramienta personal para registrar y ver tus gastos, ingresos, patrimonio, deudas, presupuestos y metas de ahorro. Los cálculos, proyecciones y comparaciones que muestra (por ejemplo, a cuántas horas de trabajo equivale una compra, cuánto podría crecer un monto invertido o cuánto podrías ahorrar) son estimaciones con fines informativos.
+
+El escaneo de tickets usa inteligencia artificial y puede leer mal algún dato. Antes de guardar, la app te muestra lo que leyó para que lo revises y lo corrijas.
+
+## 2. No es asesoramiento financiero
+
+La app no brinda asesoramiento financiero, de inversión, contable ni impositivo. No somos un banco ni una entidad financiera. Las decisiones que tomes con base en la información de la app son tu responsabilidad. Consultá a un profesional matriculado antes de tomar decisiones económicas relevantes.
+
+## 3. Tu cuenta
+
+Para usar Tookie necesitás una cuenta. En la versión de la App Store, la cuenta se crea y se abre con Iniciar sesión con Apple. Sos responsable de la actividad de tu cuenta y de cuidar el acceso a tu Apple ID. Los datos que cargás son tuyos, y sos responsable de que sean correctos.
+
+## 4. Plan gratis, Tookie+ y pagos
+
+- Plan gratis. Podés usar Tookie sin pagar, con algunos límites (por ejemplo, una cantidad de escaneos de tickets por mes y una sola meta de ahorro).
+- Tookie+. Quita esos límites y suma funciones. Se ofrece como suscripción mensual, suscripción anual o compra única “de por vida”.
+- Prueba gratis. Si es la primera vez que te suscribís (según las reglas de la App Store), los planes mensual y anual pueden incluir una prueba gratis de 3 días (con un código promocional, el plan anual puede traer una más larga). Si no cancelás al menos 24 horas antes de que termine la prueba, se cobra automáticamente el plan elegido.
+- Ofertas promocionales. De vez en cuando podemos ofrecerte Tookie+ con descuento (por ejemplo, el plan anual a un precio menor). Algunas ofertas se cobran al confirmar la compra; otras, como la de un código promocional, empiezan con un tiempo gratis (por ejemplo, un mes) y después se cobra el precio de la oferta. En los dos casos se renuevan al precio indicado en la oferta. Antes de confirmar, la pantalla de compra te dice cuál es tu caso.
+- Invitar amigos. Si otra persona usa tu código para suscribirse, podés recibir recompensas. Cuáles son y en qué condiciones se dan se explica en Perfil → Invitar amigos.
+- Antes de pagar. La pantalla de compra te muestra el precio, cada cuánto se renueva y si incluye prueba gratis.
+- Pago. Se hace con tu cuenta de la App Store: al confirmar la compra o, si empezás con una prueba gratis, cuando la prueba termina. Apple procesa el pago y RevenueCat, nuestro proveedor de suscripciones, valida la compra para activar Tookie+. Nosotros no vemos los datos de tu tarjeta.
+- Renovación automática. Las suscripciones se renuevan solas al final de cada período, al precio vigente del plan (o al de la oferta que aceptaste), salvo que canceles al menos 24 horas antes de que termine el período en curso.
+- Cómo cancelar. Desde Ajustes del iPhone → tu nombre → Suscripciones, o con «Gestionar suscripción» dentro de la app. La cancelación rige al final del período ya pagado; no hay reembolsos por períodos parciales. Los reembolsos los gestiona Apple según sus políticas.
+- Borrar la cuenta no cancela la suscripción. Si pagás una suscripción, cancelala en la App Store antes de eliminar tu cuenta.
+- Compra “de por vida”. Es un pago único, sin renovación, que da acceso a Tookie+ mientras la app exista y se mantenga en funcionamiento.
+- Restaurar compras. Si cambiás de teléfono o volvés a instalar la app, podés recuperar Tookie+ con «Restaurar compras», usando la misma cuenta de la App Store con la que compraste.
+- Precios. Pueden variar según el país y cambiar a futuro; cualquier cambio de precio de una suscripción activa se te avisa según las reglas de la App Store.
+
+## 5. Uso aceptable
+
+No podés usar la app para actividades ilegales, ni intentar vulnerar su seguridad, ni acceder a datos de otras personas, ni revender o reproducir la app sin autorización.
+
+## 6. Disponibilidad del servicio
+
+Hacemos un esfuerzo razonable para que la app funcione bien, pero se ofrece “tal cual”, sin garantía de disponibilidad ininterrumpida ni de ausencia de errores. Podemos actualizar, suspender o discontinuar funciones. Dependemos de servicios de terceros (por ejemplo Apple, Supabase, RevenueCat, OpenAI, Expo, Open-Meteo y ExchangeRate-API) cuyas interrupciones pueden afectar la app. Algunas funciones dependen de permisos y capacidades del teléfono (por ejemplo, el Bloqueo de compras usa Tiempo en pantalla del iPhone) y pueden no estar disponibles en todos los dispositivos.
+
+Cuando intentás abrir una de las apps que elegiste, el Bloqueo de compras muestra en su lugar una pantalla de Tookie, como ayuda para decidir con calma. No bloquea sitios web ni otras formas de comprar, y lo podés desactivar cuando quieras desde Herramientas → Bloqueo de compras.
+
+## 7. Límite de responsabilidad
+
+En la máxima medida permitida por la ley, no seremos responsables por daños indirectos, incidentales o pérdida de datos derivados del uso o la imposibilidad de uso de la app. Nuestra responsabilidad total se limita al monto que hayas pagado por la app en los 12 meses previos.
+
+## 8. Baja y eliminación
+
+Podés dejar de usar la app y eliminar tu cuenta cuando quieras desde Perfil → Eliminar cuenta. La eliminación es permanente y borra los datos de tu cuenta, como se explica en la Política de privacidad (https://tookieapps.com/privacidad.html#es). Podemos suspender cuentas que incumplan estos términos.
+
+## 9. Este sitio web
+
+Este sitio cuenta qué es Tookie y cómo funciona. Lo que dice sobre las funciones y los precios es informativo: el precio que vale es el que te muestra la tienda antes de comprar (sección 4), y las funciones pueden cambiar con las actualizaciones de la app (sección 6). Los enlaces a otros sitios, como las tiendas de apps, las redes sociales o los estudios citados, llevan a páginas que no controlamos y que tienen sus propias condiciones.
+
+## 10. Cambios en los términos
+
+Podemos modificar estos términos. Si el cambio es relevante, lo avisaremos dentro de la app o en esta página. El uso posterior implica aceptación.
+
+## 11. Ley aplicable
+
+Estos términos se rigen por las leyes de la República Argentina, sin perjuicio de los derechos que te correspondan como consumidor en tu país de residencia.
+
+## 12. Contacto
+
+Santino Castrataro
+castrataro.santinolucca@gmail.com
+
+---
+
+# Privacy policy (English)
+
+URL: https://tookieapps.com/privacidad.html#en
+
+Last updated: November 17, 2026
+
+This policy explains what data the Tookie app (“the app”) handles, what it is used for and who it is shared with. The app is developed and operated by Santino Castrataro (“we”, “us”). It also explains what happens when you visit this website (section 14). If you have any questions, write to us at castrataro.santinolucca@gmail.com.
+
+## 1. Quick summary
+
+- Tookie helps you keep track of your personal expenses, income and net worth.
+- We store your account and what you enter so the app works and your data is there when you sign in again, including from another phone.
+- We do not sell your data. We do not show ads. We do not track you across other apps or websites.
+- A receipt photo is used only to read it and is not stored in your account or on our servers.
+- You can delete your account and your data from within the app, at any time.
+
+## 2. What data we store in your account and why
+
+- Account: with “Sign in with Apple”, the identifier Apple creates for Tookie, the email address Apple shares with us (if you choose “Hide My Email”, it is an Apple relay address) and your first and last name, if Apple shares them. If your account uses an email and password, we store your email and your protected password, and Supabase sends you the emails to verify your account or recover your password.
+What it is used for: creating your account and recognizing you each time you sign in.
+Legal basis: performance of the service.
+- Profile: the name or nickname you want us to call you, your @username if you choose one, your preferred currencies, your salary and payday if you enter them, and your own code to invite other people.
+What it is used for: personalizing the app, working out how many hours of work an expense is worth, and creating the expected income entry for your salary.
+Legal basis: performance of the service.
+- Financial data you enter: expenses and income (amount, currency, category, payment method, date and description), fixed expenses, installment purchases, your own categories and payment methods, budgets (including single-month ones), assets, debts, goals and contributions to them, money saved, hours worked and your weekly review answers.
+What it is used for: providing the app’s main function and making your data available on any phone where you sign in to your account.
+Legal basis: performance of the service.
+- Activity in the app: the days you open Tookie, the achievements you earn and the last time you used the app.
+What it is used for: keeping your streak and achievements, and reminding you if you stop using the app (this reminder can be turned off).
+Legal basis: performance of the service.
+- Phone and notifications: an installation identifier created by the app, the platform (iOS), the language you chose in the app and your phone’s time zone; if you allow notifications, also the Expo notification token. Plus which notification topics you have turned on, the time you chose for the streak reminder and a log of the notifications our server sends.
+What it is used for: sending you the notifications you chose, in your language and at the right time.
+Legal basis: performance of the service.
+- Receipt scans: a record of each scan (when it happened, whether it counted toward your allowance and what was read from the receipt), without the image.
+What it is used for: counting the month’s scans on the free plan, not counting the same scan twice if it is retried and keeping track of your receipt achievements.
+Legal basis: performance of the service.
+- Purchases and subscription: your plan, the status of your free trial and the purchase and renewal history RevenueCat reports to us; if you use an invitation code, the redemption of that code. If someone uses your code, we store that redemption linked to your account to give you the rewards; in the app you only see how many people used it and what status they are in, not who they are.
+What it is used for: activating and validating your access to Tookie+, letting you know if a payment fails, applying the benefit of a code and giving you the rewards for inviting.
+Legal basis: performance of the subscription contract.
+
+## 3. Receipt scanning
+
+Only if you use this feature. The photo is sent encrypted to our server (a Supabase function), which passes it to OpenAI to read the merchant, the amount, the currency, the date, a description, the category, the payment method and whether the purchase is in installments. Along with the photo we send the list of categories and the names of your payment methods, to suggest the right one. We do not add your name or email, but the photo is sent in full: if the receipt shows your details (for example, your name, your national ID or tax number, or the last digits of your card), OpenAI can see them. The image is not stored, neither in your account nor on our servers: what remains is the expense you confirm and the scan record described above.
+
+## 4. What stays only on your phone
+
+- Preferences: app icon, Nara’s accessories, “Hide balances”, the floating “Log” button, the order of the Summary blocks and whether you turned on the weather. (The language you choose in the app is also saved to your account, to send you notifications in your language: see the “Phone and notifications” item in section 2.)
+- Your signed-in session, so you do not have to sign in again every time you open the app.
+- Your answers in the welcome flow. They are kept on your phone while you go through it and are deleted when you finish it. Only your name (if you give it), the currencies that match the country you chose (and, if you choose the United States, turning on the US account categories) and your first goal (if you set one up) are saved to your account.
+- Shopping block: the list of apps you choose to block and the times you tap “I’ll wait”. How it works is explained in section 6.
+- “I’ll think about it tomorrow”: the purchases you set aside to think about.
+- Widgets: with Tookie+ on iPhone, a summary of your numbers for the widgets.
+- Offline copy: a copy of part of your data, so the app opens quickly and works without internet.
+
+## 5. Weather in Summary (optional)
+
+If you turn it on, the app uses your approximate location to show the weather in your area. Before it leaves your phone it is rounded to about 10 km, it is used only to ask Open-Meteo for the weather, and it is not stored in your account or on our servers. Only the latest weather (for example, “rain”) is kept on your phone, so it is not looked up every time you open the app. You can turn it off at any time in Profile → Weather in Summary, and turning it off also deletes that latest weather from your phone. Apart from this, the app does not use your location.
+
+## 6. Shopping block (optional)
+
+Only if you turn it on. It makes your phone show a Tookie screen instead when you try to open one of the shopping apps you chose. The list of chosen apps, the state of the block and the times you tap “I’ll wait” stay on your phone: they are not sent to our servers. If that number earns you an achievement, the achievement is saved to your account.
+
+- On iPhone it uses Apple’s Screen Time. To turn it on, your iPhone asks for your permission (with Face ID or your passcode). You choose the apps in the iPhone’s list and Tookie only receives an anonymous token for each one: it does not see which apps you have, which you use or when. The name and icon you see in Tookie are shown by the system.
+- The block screen may show how many times you chose to wait this week and how much you have left to reach your goal. The app builds that text on your phone; with “Hide balances” turned on, it does not show the amount.
+
+You can turn it off at any time in Tools → Shopping block, and remove the permission in your iPhone’s Settings → Screen Time.
+
+## 7. Notifications
+
+If you allow them, Tookie sends you notifications grouped into seven topics:
+
+- Your streak: at the time you chose, if you have not opened Tookie that day yet; also when the rest day is used or the streak ends.
+- Budgets: when a category reaches 80% of its budget or goes over it, including when a fixed expense or an installment caused it.
+- Payments and payday: your payday, scheduled transactions waiting for confirmation and the last installment of each purchase.
+- Goals and debts: when you are close to reaching a goal or paying off a debt, when you get there and, once a month, a nudge to add to your goals.
+- Your week and your month: the Sunday review, how you are doing halfway through the month and the wrap-up on the 1st.
+- Coming back to Tookie: if you have not recorded any transaction yet or if several days go by without you opening the app (two reminders at most).
+- Tookie+ and your account: one day before your free trial ends and if there is a problem renewing your plan.
+
+Separately, if you use “I’ll think about it tomorrow”, we remind you about the purchase you set aside.
+
+Almost all notifications are scheduled by the phone itself with your data. Our server sends only three, because they have to arrive even if you do not open the app: your payday, the reminder after 6 days without opening Tookie and the notice of a problem renewing your plan. Those go through the Expo notification service and your phone’s system (on iPhone, Apple). The text of a notification may include, for example, the name of a category, an expense, a goal or a debt and an amount, and it may be visible on the lock screen like any notification.
+
+On iPhone, the streak reminder may also appear as a card on the lock screen (a “Live Activity”) with the days of your streak. That card is built by the phone itself, without going through our server, and your iPhone asks for your permission the first time.
+
+You can turn off each topic in Profile → Notifications, or all of them in your phone’s settings.
+
+## 8. Anonymous analytics of the welcome flow
+
+While you go through the welcome flow, the app anonymously records: a random session identifier (not linked to your account), which screens you saw, whether you skipped a part, how the flow ended (whether you purchased, entered the app or already had an account), the steps of a purchase on the pricing screen (whether you started it, cancelled it, got an error or restored an earlier purchase), whether you gave your name or set up your first goal (only “yes” or “no”), the platform, the language, the version of the welcome flow and whether it is a test build or the store version. It does not include what you type or answer (not your name, your goal or its amount). We use it to understand where people drop off during sign-up and to improve those screens (legitimate interest).
+
+Apart from this and what is described in this policy, the app does not use any other analytics or advertising tools. The app does not collect your contacts, your browsing activity or advertising identifiers.
+
+## 9. Who we share data with
+
+We use a small number of providers that process data on our behalf, only so the app can work:
+
+- Supabase (database, authentication and server functions).
+Purpose: storing your account and your data, and processing receipt scans and notifications.
+What it receives: everything described in section 2.
+- Apple.
+Purpose: Sign in with Apple, charging App Store purchases and delivering notifications on iPhone.
+What it receives: what is needed to sign in, for each purchase and for each notification. We never see your card details.
+- RevenueCat (subscription management).
+Purpose: validating App Store purchases and activating Tookie+.
+What it receives: your Tookie account identifier, information about your purchases and when you see the pricing screen.
+- OpenAI (AI that reads receipts).
+Purpose: reading the data in a receipt photo.
+What it receives: the full receipt image (with any details visible in it), the list of categories and the names of your payment methods, only when you scan. OpenAI handles that data under its own terms for API customers.
+- Expo (notification service).
+Purpose: delivering the notifications our server sends.
+What it receives: your phone’s notification token and the text of the notification.
+- Open-Meteo (weather, only if you turn it on).
+Purpose: returning the weather in your area.
+What it receives: an approximate location (rounded to about 10 km), without your name or account.
+- ExchangeRate-API (exchange rates).
+Purpose: converting amounts between currencies.
+What it receives: none of your data: the app only downloads the exchange rate table.
+
+As with any internet connection, these services may see the IP address your phone connects from. We do not share data with anyone for advertising or marketing purposes.
+
+## 10. Where data is stored and how it is protected
+
+Your account data is stored on Supabase’s infrastructure. Everything travels encrypted (HTTPS/TLS), and the database rules prevent one account from reading another account’s data.
+
+## 11. How long data is kept
+
+We keep your data while your account is active. When you delete your account, your account and everything linked to it in our database are deleted. The only things that remain are the anonymous welcome-flow analytics (which were never linked to your account), the technical record of each purchase notice RevenueCat sends us, which includes the identifier of the deleted account and the details of that purchase, and, if someone else subscribed with your invitation code, that code in the record of their redemption, no longer linked to your account. Apple and RevenueCat keep their own history of your purchases under their own policies.
+
+## 12. Your rights and how to delete your account
+
+You can view and correct your data in the app, and you can delete your account and your data (except what is described in section 11) from Profile → Delete account. Deletion is permanent and does not cancel an App Store subscription: you do that from your iPhone settings. You can also remove the app’s camera, photos, location and notification permissions and, if you use Shopping block, Screen Time in your iPhone’s settings. To request a copy of your data or to exercise any other right, write to us at castrataro.santinolucca@gmail.com.
+
+## 13. Children
+
+The app is not directed at children under 13, and we do not knowingly collect data from children under that age.
+
+## 14. This website
+
+This website does not use cookies or any analytics or advertising tools, and it does not load anything from other websites: the fonts, images and Nara’s animations are served from the site itself. Whatever you type in the calculator on the home page is worked out in your browser and is not sent anywhere.
+
+Like any web server, the service that hosts the site (currently GitHub Pages, by GitHub) may log technical data about each visit, such as the IP address, the browser and the page requested, to deliver it and keep it secure. GitHub handles those logs under its own policies.
+
+Links to the app stores, our social networks and the studies we cite take you to other websites, which have their own privacy policies.
+
+## 15. Changes to this policy
+
+If we change anything significant, we will update this page and the date above. Important changes will be announced within the app.
+
+## 16. Contact
+
+Santino Castrataro
+castrataro.santinolucca@gmail.com
+
+---
+
+# Política de privacidad (Español)
+
+Dirección: https://tookieapps.com/privacidad.html#es
+
+Última actualización: 17 de noviembre de 2026
+
+Esta política explica qué datos maneja la aplicación Tookie (“la app”), para qué los usa y con quién se comparten. La app la desarrolla y opera Santino Castrataro (“nosotros”). También explica qué pasa cuando visitás este sitio web (sección 14). Si tenés dudas, escribinos a castrataro.santinolucca@gmail.com.
+
+## 1. Resumen rápido
+
+- Tookie sirve para llevar el control personal de tus gastos, ingresos y patrimonio.
+- Guardamos tu cuenta y lo que cargás para que la app funcione y tus datos estén cuando volvés a entrar, también desde otro teléfono.
+- No vendemos tus datos. No mostramos publicidad. No te rastreamos en otras apps ni sitios.
+- La foto de un ticket se usa solo para leerlo y no se guarda en tu cuenta ni en nuestros servidores.
+- Podés borrar tu cuenta y tus datos desde la propia app, cuando quieras.
+
+## 2. Qué datos guardamos en tu cuenta y para qué
+
+- Cuenta: con «Iniciar sesión con Apple», el identificador que Apple crea para Tookie, el correo que Apple comparte con nosotros (si elegís «Ocultar mi correo electrónico», es una dirección de reenvío de Apple) y tu nombre y apellido, si Apple los comparte. Si tu cuenta usa correo y contraseña, guardamos tu correo y tu contraseña protegida, y Supabase te manda los correos para verificar tu cuenta o recuperar la contraseña.
+Para qué se usa: crear tu cuenta y reconocerte cada vez que entrás.
+Base: ejecución del servicio.
+- Perfil: el nombre o apodo con el que querés que te llamemos, tu @usuario si elegís uno, tus monedas preferidas, tu sueldo y tu día de cobro si los cargás, y un código propio para invitar a otras personas.
+Para qué se usa: personalizar la app, calcular a cuántas horas de trabajo equivale un gasto y armar el ingreso previsto de tu sueldo.
+Base: ejecución del servicio.
+- Datos financieros que cargás: gastos e ingresos (monto, moneda, categoría, medio de pago, fecha y descripción), gastos fijos, compras en cuotas, categorías y medios propios, presupuestos (también los de un solo mes), patrimonio, deudas, metas y sus aportes, dinero ahorrado, horas trabajadas y tus respuestas de la revisión semanal.
+Para qué se usa: prestar la función principal de la app y que tus datos estén disponibles en cualquier teléfono donde entres con tu cuenta.
+Base: ejecución del servicio.
+- Actividad en la app: los días en que abrís Tookie, los logros que ganás y la última vez que usaste la app.
+Para qué se usa: llevar tu racha y tus logros, y avisarte si dejás de usar la app (ese aviso se puede apagar).
+Base: ejecución del servicio.
+- Teléfono y avisos: un identificador de instalación que crea la app, la plataforma (iOS), el idioma que elegiste en la app y la zona horaria del teléfono; si permitís las notificaciones, también el token de notificaciones de Expo. Además, qué temas de avisos tenés prendidos, la hora que elegiste para el aviso de la racha y un registro de los avisos que manda nuestro servidor.
+Para qué se usa: mandarte los avisos que elegiste, en tu idioma y a la hora correcta.
+Base: ejecución del servicio.
+- Escaneos de tickets: un registro de cada escaneo (cuándo fue, si se descontó del cupo y lo que se leyó del ticket), sin la imagen.
+Para qué se usa: contar los escaneos del mes en el plan gratis, no descontar dos veces el mismo escaneo si se reintenta y llevar tus logros de tickets.
+Base: ejecución del servicio.
+- Compras y suscripción: el plan que tenés, el estado de la prueba gratis y el historial de compras y renovaciones que nos informa RevenueCat; si usás un código de invitación, el canje de ese código. Si alguien usa tu código, guardamos ese canje vinculado a tu cuenta para darte las recompensas; en la app ves solo cuántas personas lo usaron y en qué estado están, no quiénes son.
+Para qué se usa: activar y validar tu acceso a Tookie+, avisarte si falla un cobro, aplicar el beneficio de un código y darte las recompensas por invitar.
+Base: ejecución del contrato de suscripción.
+
+## 3. Escaneo de tickets
+
+Solo si usás esta función. La foto viaja cifrada a nuestro servidor (una función de Supabase), que se la pasa a OpenAI para leer el comercio, el monto, la moneda, la fecha, una descripción, la categoría, el medio de pago y si la compra es en cuotas. Junto con la foto van la lista de categorías y los nombres de tus medios de pago, para sugerir cuál corresponde. No agregamos tu nombre ni tu correo, pero la foto va completa: si el ticket muestra datos tuyos (por ejemplo, tu nombre, tu DNI o CUIT, o los últimos números de tu tarjeta), OpenAI los puede ver. La imagen no se guarda, ni en tu cuenta ni en nuestros servidores: queda el gasto que confirmás y el registro del escaneo que se describe arriba.
+
+## 4. Lo que queda solo en tu teléfono
+
+- Preferencias: logo de la app, accesorios de Nara, «Ocultar saldos», el botón «Cargar» flotante, el orden de los bloques del Resumen y si activaste el clima. (El idioma que elegís en la app se guarda también en tu cuenta, para mandarte los avisos en tu idioma: ver el punto «Teléfono y avisos» de la sección 2.)
+- Tu sesión iniciada, para que no tengas que volver a entrar cada vez que abrís la app.
+- Respuestas de la pasarela de bienvenida. Se guardan en el teléfono mientras la recorrés y se borran al terminarla. A tu cuenta solo pasan tu nombre (si lo das), las monedas que corresponden al país que elegiste (y, si elegís Estados Unidos, que se activen las categorías de cuentas de EE.UU.) y tu primera meta (si la armás).
+- Bloqueo de compras: la lista de apps que elegís bloquear y las veces que tocás «Elijo esperar». Cómo funciona se explica en la sección 6.
+- «Lo pienso mañana»: las compras que dejás para pensar.
+- Widgets: con Tookie+ en el iPhone, un resumen de tus números para los widgets.
+- Copia para usar sin conexión: una copia de parte de tus datos, para que la app abra rápido y funcione sin internet.
+
+## 5. Clima en el Resumen (opcional)
+
+Si lo activás, la app usa tu ubicación aproximada para mostrar el clima de tu zona. Antes de salir del teléfono se redondea a unos 10 km, se usa solo para preguntarle el clima a Open-Meteo y no se guarda en tu cuenta ni en nuestros servidores. En el teléfono queda únicamente el último clima (por ejemplo, “lluvia”), para no consultarlo cada vez que abrís la app. Lo podés apagar cuando quieras en Perfil → Clima en el Resumen, y al apagarlo también se borra del teléfono ese último clima. Fuera de esto, la app no usa tu ubicación.
+
+## 6. Bloqueo de compras (opcional)
+
+Solo si lo activás. Sirve para que, cuando intentás abrir una de las apps de compras que elegiste, el teléfono muestre en su lugar una pantalla de Tookie. La lista de apps elegidas, el estado del bloqueo y las veces que tocás «Elijo esperar» quedan en tu teléfono: no se mandan a nuestros servidores. Si ese número te hace ganar un logro, el logro se guarda en tu cuenta.
+
+- En el iPhone usa Tiempo en pantalla de Apple. Para activarlo, el iPhone te pide permiso (con Face ID o el código). Las apps las elegís en la lista del iPhone y Tookie recibe solo una ficha anónima de cada una: no ve cuáles tenés, cuáles usás ni cuándo. El nombre y el ícono que ves en Tookie los muestra el sistema.
+- La pantalla de bloqueo puede mostrar cuántas veces elegiste esperar esta semana y cuánto te falta para tu meta. Ese texto lo arma la app en el teléfono; con «Ocultar saldos» activado, no muestra el monto.
+
+Podés desactivarlo cuando quieras desde Herramientas → Bloqueo de compras, y quitarle el permiso desde Ajustes → Tiempo en pantalla del iPhone.
+
+## 7. Notificaciones
+
+Si las permitís, Tookie te manda avisos agrupados en siete temas:
+
+- Tu racha: a la hora que elegiste, si todavía no abriste Tookie ese día; también si se usó el día de descanso o si la racha se corta.
+- Presupuestos: cuando una categoría llega al 80% de su presupuesto o lo pasa, también si fue por un gasto fijo o una cuota.
+- Pagos y cobros: tu día de cobro, los movimientos previstos que esperan confirmación y la última cuota de cada compra.
+- Metas y deudas: cuando estás cerca de cumplir una meta o de terminar una deuda, cuando lo lográs y, una vez por mes, para sumarle a tus metas.
+- Tu semana y tu mes: el repaso del domingo, cómo venís a mitad de mes y el cierre del día 1.
+- Volver a Tookie: si todavía no anotaste ningún movimiento o si pasan varios días sin que abras la app (como mucho dos avisos).
+- Tookie+ y tu cuenta: un día antes de que termine tu prueba gratis y si hay un problema para renovar tu plan.
+
+Aparte, si usás «Lo pienso mañana», te recordamos la compra que dejaste para pensar.
+
+Casi todos los avisos los programa el propio teléfono con tus datos. Nuestro servidor manda solo tres, porque tienen que llegar aunque no abras la app: el de tu día de cobro, el recordatorio a los 6 días sin abrir Tookie y el aviso de un problema para renovar tu plan. Esos salen a través del servicio de notificaciones de Expo y del sistema del teléfono (en el iPhone, Apple). El texto de un aviso puede incluir, por ejemplo, el nombre de una categoría, de un gasto, de una meta o de una deuda y un monto, y se puede ver en la pantalla bloqueada como cualquier notificación.
+
+En el iPhone, el aviso de la racha también puede aparecer como una tarjeta en la pantalla bloqueada (una «Actividad en vivo») con los días de tu racha. Esa tarjeta la arma el propio teléfono, sin pasar por nuestro servidor, y el iPhone te pide permiso la primera vez.
+
+Podés apagar cada tema en Perfil → Notificaciones, o todas desde los ajustes del teléfono.
+
+## 8. Analítica anónima de la pasarela de bienvenida
+
+Mientras recorrés la pasarela de bienvenida, la app registra de forma anónima: un identificador de sesión aleatorio (que no se vincula con tu cuenta), qué pantallas viste, si saltaste alguna parte, cómo terminó el recorrido (si compraste, si entraste a la app o si ya tenías cuenta), los pasos de una compra en la pantalla de precios (si la empezaste, si la cancelaste, si hubo un error o si restauraste una compra anterior), si diste tu nombre o armaste tu primera meta (solo “sí” o “no”), la plataforma, el idioma, la versión de la pasarela y si es una versión de prueba o la de la tienda. No incluye lo que escribís ni lo que respondés (ni tu nombre, ni tu meta, ni su monto). Lo usamos para entender en qué punto la gente abandona el alta y mejorar esas pantallas (interés legítimo).
+
+Fuera de esto y de lo que se describe en esta política, la app no usa otras herramientas de analítica ni de publicidad. La app no recopila tus contactos, tu actividad de navegación ni identificadores publicitarios.
+
+## 9. Con quién se comparten los datos
+
+Usamos pocos proveedores, que procesan datos por cuenta nuestra y solo para que la app funcione:
+
+- Supabase (base de datos, autenticación y funciones del servidor).
+Para qué: guardar tu cuenta y tus datos, y procesar el escaneo de tickets y los avisos.
+Qué recibe: todo lo que se describe en la sección 2.
+- Apple.
+Para qué: iniciar sesión con Apple, cobrar las compras de la App Store y entregar las notificaciones en el iPhone.
+Qué recibe: lo necesario para iniciar sesión, para cada compra y para cada aviso. Nosotros no vemos los datos de tu tarjeta.
+- RevenueCat (gestión de suscripciones).
+Para qué: validar las compras de la App Store y activar Tookie+.
+Qué recibe: el identificador de tu cuenta de Tookie, la información de tus compras y cuándo ves la pantalla de precios.
+- OpenAI (IA que lee los tickets).
+Para qué: leer los datos de la foto de un ticket.
+Qué recibe: la imagen completa del ticket (con cualquier dato que se vea en ella), la lista de categorías y los nombres de tus medios de pago, solo cuando escaneás. OpenAI trata esos datos según sus propias condiciones para empresas que usan su API.
+- Expo (servicio de notificaciones).
+Para qué: entregar los avisos que manda nuestro servidor.
+Qué recibe: el token de notificaciones de tu teléfono y el texto del aviso.
+- Open-Meteo (clima, solo si lo activás).
+Para qué: devolver el clima de tu zona.
+Qué recibe: una ubicación aproximada (redondeada a unos 10 km), sin tu nombre ni tu cuenta.
+- ExchangeRate-API (cotizaciones de monedas).
+Para qué: convertir montos entre monedas.
+Qué recibe: ningún dato tuyo: la app solo descarga la tabla de cotizaciones.
+
+Como pasa con cualquier conexión a internet, estos servicios pueden ver la dirección IP desde la que se conecta tu teléfono. No compartimos datos con nadie para fines publicitarios o de marketing.
+
+## 10. Dónde se guardan y cómo se protegen
+
+Los datos de tu cuenta se guardan en la infraestructura de Supabase. Todo viaja cifrado (HTTPS/TLS), y las reglas de la base de datos impiden que una cuenta lea los datos de otra.
+
+## 11. Cuánto tiempo se conservan
+
+Conservamos tus datos mientras tu cuenta esté activa. Cuando eliminás tu cuenta, se borran tu cuenta y todo lo que está asociado a ella en nuestra base de datos. Quedan solo la analítica anónima de la pasarela (que nunca estuvo vinculada a tu cuenta), el registro técnico de cada aviso de compra que nos manda RevenueCat, que incluye el identificador de la cuenta borrada y los datos de esa compra, y, si otra persona se suscribió con tu código de invitación, ese código en el registro de su canje, ya sin vínculo con tu cuenta. Apple y RevenueCat conservan su propio historial de tus compras según sus políticas.
+
+## 12. Tus derechos y cómo borrar tu cuenta
+
+Podés ver y corregir tus datos desde la app, y podés eliminar tu cuenta y tus datos (salvo lo que se indica en la sección 11) desde Perfil → Eliminar cuenta. La eliminación es permanente y no cancela una suscripción de la App Store: eso se hace desde los ajustes del iPhone. También podés quitarle a la app los permisos de cámara, fotos, ubicación, notificaciones y, si usás el Bloqueo de compras, Tiempo en pantalla desde los ajustes del iPhone. Para pedir una copia de tus datos o ejercer cualquier otro derecho, escribinos a castrataro.santinolucca@gmail.com.
+
+## 13. Menores
+
+La app no está dirigida a menores de 13 años y no recopilamos deliberadamente datos de menores de esa edad.
+
+## 14. Este sitio web
+
+Este sitio no usa cookies ni herramientas de analítica o de publicidad, y no carga nada de otros sitios: las fuentes, las imágenes y las animaciones de Nara se sirven desde el propio sitio. Lo que escribís en la calculadora de la página de inicio se calcula en tu navegador y no se envía a ningún lado.
+
+Como cualquier servidor web, el servicio que aloja el sitio (hoy, GitHub Pages, de GitHub) puede registrar datos técnicos de cada visita, como la dirección IP, el navegador y la página pedida, para entregarla y protegerla. Esos registros los maneja GitHub según sus propias políticas.
+
+Los enlaces a las tiendas de apps, a nuestras redes sociales y a los estudios citados llevan a otros sitios, que tienen sus propias políticas de privacidad.
+
+## 15. Cambios en esta política
+
+Si cambiamos algo relevante, actualizaremos esta página y la fecha de arriba. Los cambios importantes se avisarán dentro de la app.
+
+## 16. Contacto
+
+Santino Castrataro
+castrataro.santinolucca@gmail.com
+
+---
+
+# Contacto / Contact
+
+castrataro.santinolucca@gmail.com

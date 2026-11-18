@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tookieapps.com/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tookieapps.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tookieapps.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tookieapps.com/"/>
+  </url>
+  <url>
+    <loc>https://tookieapps.com/es/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tookieapps.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tookieapps.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tookieapps.com/"/>
+  </url>
+  <url>
+    <loc>https://tookieapps.com/terminos.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://tookieapps.com/privacidad.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+</urlset>

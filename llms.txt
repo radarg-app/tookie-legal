@@ -1,0 +1,90 @@
+# Tookie
+
+> Tookie is a personal finance app for iPhone that helps you track your spending and save money. On the free plan you log expenses and income by hand or with a photo of the receipt, which AI reads for you, and set up your first savings goal. With Tookie+, the paid plan, you add budgets by category, “Should I buy it?” (how many hours of work a purchase costs you), Shopping block, fixed costs and installments that log themselves, and your net worth. Its features are inspired by behavioral science studies, and Nara, the app’s helper, keeps you company along the way.
+
+Tookie es una app de finanzas personales para iPhone que te ayuda a controlar tus gastos y a ahorrar. Con el plan gratis cargás gastos e ingresos a mano o con una foto del ticket, que lee una IA, y armás tu primera meta de ahorro. Con Tookie+, el plan pago, sumás presupuestos por categoría, «¿Lo compro?» (cuántas horas de trabajo te cuesta una compra), el Bloqueo de compras, gastos fijos y cuotas que se cargan solos, y tu patrimonio. Sus funciones se inspiran en estudios de ciencia del comportamiento y te acompaña Nara, la ayudante de la app.
+
+Key facts (English):
+
+- What it is: A personal finance app to track your expenses and income, set budgets, save for your goals and see your net worth.
+- Who it’s for: People who want to know where their money goes, buy less on impulse and save for something specific, without spreadsheets.
+- Platforms: iPhone (iOS).
+- Price: Free to start. Tookie+ costs US$29.99 a year or US$5.99 a month, with a 3-day free trial for new subscribers.
+- How expenses get in: By hand, in seconds, or with a photo of the receipt that AI reads. It doesn’t connect to your bank.
+- Languages: 16, including English, Spanish, Portuguese, French, German, Italian, Chinese, Japanese and Korean.
+- Currencies: 38. Each expense keeps its currency, and totals are converted to your main currency.
+- Privacy: It doesn’t sell your data, show ads or track you across other apps. A receipt photo is only used to read it and isn’t stored by Tookie.
+- Science: Its features are inspired by published behavioral science studies.
+- Who makes it: Tookie is developed and operated by Santino Castrataro.
+- Free plan: 5 receipt scans a month · 1 savings goal · 3 custom expense categories · 3 custom income categories
+- Pricing (in US dollars, as of 2026-11-16; the store shows the price in your currency): Tookie+ US$5.99 per month · Tookie+ US$29.99 per year
+- App languages (16): Español [es] (+ Español Latino [es-419]), English (US) [en-US], English (UK) [en-GB], Português [pt-BR], Français [fr], Deutsch [de], Italiano [it], Nederlands [nl], Polski [pl], Svenska [sv], Norsk [no], Dansk [da], Türkçe [tr], 简体中文 [zh-Hans], 日本語 [ja], 한국어 [ko]
+- How it’s different: Tookie is designed to help you spend less, not just to keep records. Before you buy, it shows how many hours of work something costs and lets you put the stores that tempt you on pause; its features are inspired by behavioral science studies; it doesn’t connect to your bank, so you decide what goes in; and it doesn’t scold you: your streak gets a rest day and Nara keeps you company.
+
+Datos clave (Español):
+
+- Qué es: Una app de finanzas personales para llevar tus gastos e ingresos, armar presupuestos, ahorrar para tus metas y ver tu patrimonio.
+- Para quién: Para quien quiere saber a dónde va su dinero, comprar menos por impulso y ahorrar para algo concreto, sin planillas.
+- Plataformas: iPhone (iOS).
+- Precio: Gratis para empezar. Tookie+ cuesta US$ 29,99 por año o US$ 5,99 por mes, con 3 días de prueba gratis para quien se suscribe por primera vez.
+- Cómo se cargan los gastos: A mano, en segundos, o con una foto del ticket que lee una IA. No se conecta a tu banco.
+- Idiomas: 16, entre ellos español, inglés, portugués, francés, alemán, italiano, chino, japonés y coreano.
+- Monedas: 38. Cada gasto queda en su moneda y los totales se pasan a tu moneda principal.
+- Privacidad: No vende tus datos, no muestra publicidad y no te rastrea en otras apps. La foto de un ticket se usa solo para leerlo y Tookie no la guarda.
+- Ciencia: Sus funciones se inspiran en estudios publicados de ciencia del comportamiento.
+- Quién lo hace: Tookie lo desarrolla y lo opera Santino Castrataro.
+- Plan gratis: 5 escaneos de tickets por mes · 1 meta de ahorro · 3 categorías propias de gastos · 3 categorías propias de ingresos
+- Precios (en dólares, al 2026-11-16; la tienda muestra el precio en tu moneda): Tookie+ US$ 5,99 por mes · Tookie+ US$ 29,99 por año
+- Idiomas de la app (16): Español [es] (+ Español Latino [es-419]), English (US) [en-US], English (UK) [en-GB], Português [pt-BR], Français [fr], Deutsch [de], Italiano [it], Nederlands [nl], Polski [pl], Svenska [sv], Norsk [no], Dansk [da], Türkçe [tr], 简体中文 [zh-Hans], 日本語 [ja], 한국어 [ko]
+- En qué se diferencia: Tookie está pensado para que gastes menos, no solo para anotar. Antes de comprar te muestra cuántas horas de trabajo te cuesta y te deja poner en pausa las tiendas que te tientan; sus funciones se inspiran en estudios de ciencia del comportamiento; no se conecta a tu banco, así que vos decidís qué cargar; y no te reta: la racha tiene un día de descanso y Nara te acompaña.
+
+## Tookie in English
+
+- [Tookie: expense tracker & budget app for iPhone](https://tookieapps.com/): Track your spending, set budgets and save for your goals with Tookie. Scan receipts with AI and pause before impulse buys. Free to start.
+- [Tookie is built on behavioral science](https://tookieapps.com/#ciencia): Every feature comes from a published study on how we make decisions about money. Here’s how it looks in the app.
+- [What you’ll get out of Tookie](https://tookieapps.com/#beneficios): Know where your money goes, buy less on impulse and reach what you want.
+- [Everything Tookie does](https://tookieapps.com/#funciones): The app’s features, one by one, and which are free and which come with Tookie+.
+- [Meet Nara](https://tookieapps.com/#nara)
+- [Pricing](https://tookieapps.com/#precios): Start for free. When you want more, Tookie+ adds every tool, with a 3-day free trial.
+- [Frequently asked questions](https://tookieapps.com/#preguntas)
+- [Tookie at a glance](https://tookieapps.com/#resumen)
+- [Start in three steps](https://tookieapps.com/#como-funciona)
+- [Terms of use](https://tookieapps.com/terminos.html#en)
+- [Privacy policy](https://tookieapps.com/privacidad.html#en)
+
+## Tookie en español
+
+- [Tookie: app de gastos y ahorro para iPhone](https://tookieapps.com/es/): Controlá tus gastos, armá presupuestos y ahorrá para tus metas con Tookie. Escaneá tickets con IA y frená las compras por impulso. Gratis para empezar.
+- [Tookie se basa en la ciencia del comportamiento](https://tookieapps.com/es/#ciencia): Cada función nace de un estudio publicado sobre cómo decidimos con el dinero. Así se ve en la app.
+- [Lo que vas a lograr con Tookie](https://tookieapps.com/es/#beneficios): Saber a dónde va tu dinero, comprar menos por impulso y llegar a lo que querés.
+- [Todo lo que hace Tookie](https://tookieapps.com/es/#funciones): Las funciones de la app, una por una, y cuál es gratis y cuál es de Tookie+.
+- [Conocé a Nara](https://tookieapps.com/es/#nara)
+- [Precios](https://tookieapps.com/es/#precios): Empezá gratis. Cuando quieras más, Tookie+ suma todas las herramientas, con 3 días de prueba gratis.
+- [Preguntas frecuentes](https://tookieapps.com/es/#preguntas)
+- [Tookie en pocas palabras](https://tookieapps.com/es/#resumen)
+- [Empezás en tres pasos](https://tookieapps.com/es/#como-funciona)
+- [Términos y condiciones](https://tookieapps.com/terminos.html#es)
+- [Política de privacidad](https://tookieapps.com/privacidad.html#es)
+
+## Download Tookie
+
+- App Store (iPhone): Coming soon
+
+## Research behind Tookie
+
+- [David J. Grüning, Frederik Riedel, Philipp Lorenz-Spreen (2023). "Directing smartphone use through the self-nudge app one sec". Proceedings of the National Academy of Sciences (PNAS).](https://doi.org/10.1073/pnas.2213114120): Shopping block
+- [Shane Frederick, Nathan Novemsky, Jing Wang, Ravi Dhar, Stephen Nowlis (2009). "Opportunity Cost Neglect". Journal of Consumer Research.](https://doi.org/10.1086/599764): Should I buy it?
+- [Amit Poddar, Cameron M. Ellis, Timucin Ozcan (2015). "Imperfect Recall: The Impact of Composite Spending Information Disclosure on Credit Card Spending". Journal of Consumer Policy.](https://doi.org/10.1007/s10603-014-9279-8): Category totals
+- [Marcel F. Lukas, Ray Charles “Chuck” Howard (2023). "The Influence of Budgets on Consumer Spending". Journal of Consumer Research.](https://doi.org/10.1093/jcr/ucac024): Budgets
+- [Dilip Soman (2001). "Effects of Payment Mechanism on Spending Behavior: The Role of Rehearsal and Immediacy of Payments". Journal of Consumer Research.](https://doi.org/10.1086/319621): Weekly review
+
+## Contact and social
+
+- [Email](mailto:castrataro.santinolucca@gmail.com)
+- [X](https://x.com/tookieapp)
+- [LinkedIn](https://www.linkedin.com/company/tookieapp)
+
+## Optional
+
+- [Full text of the site (llms-full.txt)](https://tookieapps.com/llms-full.txt)
+- [Sitemap (sitemap.xml)](https://tookieapps.com/sitemap.xml)

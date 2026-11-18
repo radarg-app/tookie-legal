@@ -1,0 +1,44 @@
+{
+  "id": "./",
+  "name": "Tookie",
+  "short_name": "Tookie",
+  "description": "Track your spending, set budgets and save for your goals with Tookie. Scan receipts with AI and pause before impulse buys. Free to start.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#F4F4F6",
+  "theme_color": "#F4F4F6",
+  "categories": [
+    "finance",
+    "productivity",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "assets/imagenes/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/imagenes/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/imagenes/icono-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/imagenes/icono-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
