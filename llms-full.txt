@@ -507,7 +507,7 @@ Tookie va a estar muy pronto en el App Store, para iPhone. Nara ya se está prep
 
 URL: https://tookieapps.com/terminos.html#en
 
-Last updated: November 17, 2026
+Last updated: November 18, 2026
 
 By downloading or using Tookie (“the app”) you agree to these terms. If you do not agree, do not use the app. The app is developed and operated by Santino Castrataro (“we”, “us”).
 
@@ -576,7 +576,7 @@ These terms are governed by the laws of the Argentine Republic, without prejudic
 ## 12. Contact
 
 Santino Castrataro
-castrataro.santinolucca@gmail.com
+support@tookieapps.com
 
 ---
 
@@ -584,7 +584,7 @@ castrataro.santinolucca@gmail.com
 
 Dirección: https://tookieapps.com/terminos.html#es
 
-Última actualización: 17 de noviembre de 2026
+Última actualización: 18 de noviembre de 2026
 
 Al descargar o usar Tookie (“la app”) aceptás estos términos. Si no estás de acuerdo, no uses la app. La app la desarrolla y opera Santino Castrataro (“nosotros”).
 
@@ -653,7 +653,7 @@ Estos términos se rigen por las leyes de la República Argentina, sin perjuicio
 ## 12. Contacto
 
 Santino Castrataro
-castrataro.santinolucca@gmail.com
+support@tookieapps.com
 
 ---
 
@@ -661,9 +661,9 @@ castrataro.santinolucca@gmail.com
 
 URL: https://tookieapps.com/privacidad.html#en
 
-Last updated: November 17, 2026
+Last updated: November 18, 2026
 
-This policy explains what data the Tookie app (“the app”) handles, what it is used for and who it is shared with. The app is developed and operated by Santino Castrataro (“we”, “us”). It also explains what happens when you visit this website (section 14). If you have any questions, write to us at castrataro.santinolucca@gmail.com.
+This policy explains what data the Tookie app (“the app”) handles, what it is used for and who it is shared with. The app is developed and operated by Santino Castrataro (“we”, “us”). It also explains what happens when you visit this website (section 14). If you have any questions, write to us at support@tookieapps.com.
 
 ## 1. Quick summary
 
@@ -788,7 +788,7 @@ We keep your data while your account is active. When you delete your account, yo
 
 ## 12. Your rights and how to delete your account
 
-You can view and correct your data in the app, and you can delete your account and your data (except what is described in section 11) from Profile → Delete account. Deletion is permanent and does not cancel an App Store subscription: you do that from your iPhone settings. You can also remove the app’s camera, photos, location and notification permissions and, if you use Shopping block, Screen Time in your iPhone’s settings. To request a copy of your data or to exercise any other right, write to us at castrataro.santinolucca@gmail.com.
+You can view and correct your data in the app, and you can delete your account and your data (except what is described in section 11) from Profile → Delete account. Deletion is permanent and does not cancel an App Store subscription: you do that from your iPhone settings. You can also remove the app’s camera, photos, location and notification permissions and, if you use Shopping block, Screen Time in your iPhone’s settings. To request a copy of your data or to exercise any other right, write to us at support@tookieapps.com.
 
 ## 13. Children
 
@@ -809,7 +809,7 @@ If we change anything significant, we will update this page and the date above. 
 ## 16. Contact
 
 Santino Castrataro
-castrataro.santinolucca@gmail.com
+support@tookieapps.com
 
 ---
 
@@ -817,9 +817,9 @@ castrataro.santinolucca@gmail.com
 
 Dirección: https://tookieapps.com/privacidad.html#es
 
-Última actualización: 17 de noviembre de 2026
+Última actualización: 18 de noviembre de 2026
 
-Esta política explica qué datos maneja la aplicación Tookie (“la app”), para qué los usa y con quién se comparten. La app la desarrolla y opera Santino Castrataro (“nosotros”). También explica qué pasa cuando visitás este sitio web (sección 14). Si tenés dudas, escribinos a castrataro.santinolucca@gmail.com.
+Esta política explica qué datos maneja la aplicación Tookie (“la app”), para qué los usa y con quién se comparten. La app la desarrolla y opera Santino Castrataro (“nosotros”). También explica qué pasa cuando visitás este sitio web (sección 14). Si tenés dudas, escribinos a support@tookieapps.com.
 
 ## 1. Resumen rápido
 
@@ -944,7 +944,7 @@ Conservamos tus datos mientras tu cuenta esté activa. Cuando eliminás tu cuent
 
 ## 12. Tus derechos y cómo borrar tu cuenta
 
-Podés ver y corregir tus datos desde la app, y podés eliminar tu cuenta y tus datos (salvo lo que se indica en la sección 11) desde Perfil → Eliminar cuenta. La eliminación es permanente y no cancela una suscripción de la App Store: eso se hace desde los ajustes del iPhone. También podés quitarle a la app los permisos de cámara, fotos, ubicación, notificaciones y, si usás el Bloqueo de compras, Tiempo en pantalla desde los ajustes del iPhone. Para pedir una copia de tus datos o ejercer cualquier otro derecho, escribinos a castrataro.santinolucca@gmail.com.
+Podés ver y corregir tus datos desde la app, y podés eliminar tu cuenta y tus datos (salvo lo que se indica en la sección 11) desde Perfil → Eliminar cuenta. La eliminación es permanente y no cancela una suscripción de la App Store: eso se hace desde los ajustes del iPhone. También podés quitarle a la app los permisos de cámara, fotos, ubicación, notificaciones y, si usás el Bloqueo de compras, Tiempo en pantalla desde los ajustes del iPhone. Para pedir una copia de tus datos o ejercer cualquier otro derecho, escribinos a support@tookieapps.com.
 
 ## 13. Menores
 
@@ -965,10 +965,10 @@ Si cambiamos algo relevante, actualizaremos esta página y la fecha de arriba. L
 ## 16. Contacto
 
 Santino Castrataro
-castrataro.santinolucca@gmail.com
+support@tookieapps.com
 
 ---
 
 # Contacto / Contact
 
-castrataro.santinolucca@gmail.com
+support@tookieapps.com
