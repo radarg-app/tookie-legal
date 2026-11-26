@@ -19,7 +19,7 @@ Free to start · 3-day Tookie+ free trial · 16 languages
 
 ## Tookie at a glance
 
-Tookie is a personal finance app for iPhone that helps you track your spending and save money. On the free plan you log expenses and income by hand or with a photo of the receipt, which AI reads for you, and set up your first savings goal. With Tookie+, the paid plan, you add budgets by category, “Should I buy it?” (how many hours of work a purchase costs you), Shopping block, fixed costs and installments that log themselves, and your net worth. Its features are inspired by behavioral science studies, and Nara, the app’s helper, keeps you company along the way.
+Tookie is a personal finance app for iPhone that helps you track your spending and save money. On the free plan you log up to 15 expenses and income entries a week, by hand or with a photo of the receipt, which AI reads for you, and set up your first savings goal. With Tookie+, the paid plan, you add budgets by category, “Should I buy it?” (how many hours of work a purchase costs you), Shopping block, fixed costs and installments that log themselves, and your net worth. Its features are inspired by behavioral science studies, and Nara, the app’s helper, keeps you company along the way.
 
 - What it is: A personal finance app to track your expenses and income, set budgets, save for your goals and see your net worth.
 - Who it’s for: People who want to know where their money goes, buy less on impulse and save for something specific, without spreadsheets.
@@ -49,13 +49,13 @@ Know where your money goes, buy less on impulse and reach what you want.
 
 The app’s features, one by one, and which are free and which come with Tookie+.
 
-### Log an expense in seconds (Free)
+### Log an expense in seconds (Free and Tookie+)
 
 Tap +, type the amount on the app’s keypad and pick a category. Income works the same way, and every transaction can be in any of 38 currencies.
 
 - When you save, you see how much you’ve spent in that category this month.
 - Expenses shows every transaction, day by day: swipe a row to edit or delete it.
-- If you paid in another currency, change it right there.
+- Free plan: 15 expenses and income entries a week, renewed every Monday. With Tookie+, unlimited.
 
 ### Scan receipts with AI (Free and Tookie+)
 
@@ -108,8 +108,8 @@ Once a week, Tookie asks about a few of your purchases: if you could choose agai
 Every day you open Tookie adds to your streak, with one rest day a week. With achievements, Nara earns accessories to wear.
 
 - The flame changes color: blue from 5 days and purple from 15.
-- 47 achievements and 58 accessories, 16 of which you can wear without earning anything.
-- Streaks are for everyone; achievements and accessories come with Tookie+.
+- 47 achievements and 59 accessories, 16 of which you can wear without earning anything.
+- Streaks are for everyone, and your first expense earns Nara a hoodie as a gift. Achievements and the rest of the accessories come with Tookie+.
 
 ### How many hours of work does it cost?
 
@@ -146,7 +146,7 @@ These are academic references: the authors and their universities do not endorse
 
 Nara is Tookie’s helper. Her face changes with how your month is going, she celebrates your achievements and keeps you company throughout the app, without ever scolding you.
 
-The app has 58 accessories to dress her your way, one per spot. Dressing her up comes with Tookie+.
+The app has 59 accessories to dress her your way, one per spot. Your first expense earns her a hoodie as a gift; the rest comes with Tookie+.
 
 ## Start in three steps
 
@@ -162,12 +162,13 @@ Start for free. When you want more, Tookie+ adds every tool, with a 3-day free t
 
 The essentials to know where your money goes.
 
-- Log expenses and income, with history and filters
+- Log expenses and income: 15 a week, with history and filters
 - AI receipt scanning: 5 a month
 - Custom categories: 3 for expenses and 3 for income
 - Savings goals: 1
 - Weekly review and monthly wrap-up
 - Streak with one rest day a week
+- A hoodie for Nara, a gift for your first expense
 - 38 currencies and 16 languages
 
 ### Tookie+
@@ -179,7 +180,7 @@ Every tool to save more and think before you buy.
 
 3-day free trial for new subscribers
 
-- Unlimited receipt scans
+- Unlimited expenses, income and receipt scans
 - Unlimited categories and goals
 - Budgets by category, with a heads-up before you go over
 - “Should I buy it?”, compound interest, exchange rates and Money saved
@@ -197,11 +198,11 @@ Prices in US dollars. Your store shows the price in your currency, which may var
 
 ### Is Tookie free?
 
-Yes, Tookie is free to start. On the free plan you log expenses and income, use your history and filters, scan 5 receipts a month and set up your first savings goal. Tookie+ is the paid plan, with the rest of the tools.
+Yes, Tookie is free to start. On the free plan you log up to 15 expenses and income entries a week, use your history and filters, scan 5 receipts a month and set up your first savings goal. Tookie+ is the paid plan, with the rest of the tools.
 
 ### What does Tookie+ include and how much is it?
 
-Tookie+ costs US$29.99 a year or US$5.99 a month. If it’s your first time with Tookie+, both plans start with a 3-day free trial. It adds unlimited scans, budgets, “Should I buy it?”, Shopping block, fixed costs and installments, your net worth, unlimited goals and categories, iPhone widgets, and achievements and accessories for Nara. Your store shows the price in your currency.
+Tookie+ costs US$29.99 a year or US$5.99 a month. If it’s your first time with Tookie+, both plans start with a 3-day free trial. It adds unlimited expenses, income and scans, budgets, “Should I buy it?”, Shopping block, fixed costs and installments, your net worth, unlimited goals and categories, iPhone widgets, and achievements and accessories for Nara. Your store shows the price in your currency.
 
 ### How do I cancel Tookie+?
 
@@ -241,7 +242,7 @@ It’s a Tookie+ feature that puts the shopping apps you choose on pause. If you
 
 ### Who is Nara?
 
-Nara is Tookie’s helper. She keeps you company throughout the app, her face changes with how your month is going, she celebrates your achievements and she walks you through it in the Tookie tour. With Tookie+ you can dress her up: 16 accessories are ready to wear and the rest you earn with achievements.
+Nara is Tookie’s helper. She keeps you company throughout the app, her face changes with how your month is going, she celebrates your achievements and she walks you through it in the Tookie tour. Your first expense earns her a hoodie, on any plan. With Tookie+ you can dress her up all the way: 16 accessories are ready to wear and the rest you earn with achievements.
 
 ### How is Tookie different from other expense trackers?
 
@@ -267,7 +268,7 @@ Gratis para empezar · 3 días de prueba de Tookie+ · 16 idiomas
 
 ## Tookie en pocas palabras
 
-Tookie es una app de finanzas personales para iPhone que te ayuda a controlar tus gastos y a ahorrar. Con el plan gratis cargás gastos e ingresos a mano o con una foto del ticket, que lee una IA, y armás tu primera meta de ahorro. Con Tookie+, el plan pago, sumás presupuestos por categoría, «¿Lo compro?» (cuántas horas de trabajo te cuesta una compra), el Bloqueo de compras, gastos fijos y cuotas que se cargan solos, y tu patrimonio. Sus funciones se inspiran en estudios de ciencia del comportamiento y te acompaña Nara, la ayudante de la app.
+Tookie es una app de finanzas personales para iPhone que te ayuda a controlar tus gastos y a ahorrar. Con el plan gratis cargás hasta 15 gastos e ingresos por semana, a mano o con una foto del ticket, que lee una IA, y armás tu primera meta de ahorro. Con Tookie+, el plan pago, sumás presupuestos por categoría, «¿Lo compro?» (cuántas horas de trabajo te cuesta una compra), el Bloqueo de compras, gastos fijos y cuotas que se cargan solos, y tu patrimonio. Sus funciones se inspiran en estudios de ciencia del comportamiento y te acompaña Nara, la ayudante de la app.
 
 - Qué es: Una app de finanzas personales para llevar tus gastos e ingresos, armar presupuestos, ahorrar para tus metas y ver tu patrimonio.
 - Para quién: Para quien quiere saber a dónde va su dinero, comprar menos por impulso y ahorrar para algo concreto, sin planillas.
@@ -297,13 +298,13 @@ Saber a dónde va tu dinero, comprar menos por impulso y llegar a lo que querés
 
 Las funciones de la app, una por una, y cuál es gratis y cuál es de Tookie+.
 
-### Cargá un gasto en segundos (Gratis)
+### Cargá un gasto en segundos (Gratis y Tookie+)
 
 Tocá +, escribí el monto con el teclado de la app y elegí la categoría. Un ingreso se carga igual, y cada movimiento puede ir en cualquiera de las 38 monedas.
 
 - Al guardar, ves cuánto llevás en esa categoría este mes.
 - En Gastos está cada movimiento, día por día: deslizá una fila para editarla o borrarla.
-- Si fue en otra moneda, la cambiás ahí mismo.
+- Plan gratis: 15 gastos e ingresos por semana, que se renuevan cada lunes. Con Tookie+, sin límite.
 
 ### Escaneá tickets con IA (Gratis y Tookie+)
 
@@ -356,8 +357,8 @@ Una vez por semana, Tookie te pregunta por algunas de tus compras: si pudieras e
 Cada día que abrís Tookie suma a tu racha, con un día de descanso por semana. Con los logros, Nara gana accesorios para vestirse.
 
 - La llama cambia de color: azul desde los 5 días y violeta desde los 15.
-- 47 logros y 58 accesorios, de los que 16 se usan sin ganar ningún logro.
-- La racha es para todos; los logros y los accesorios, de Tookie+.
+- 47 logros y 59 accesorios, de los que 16 se usan sin ganar ningún logro.
+- La racha es para todos, y con tu primer gasto Nara gana un buzo de regalo. Los logros y el resto de los accesorios, de Tookie+.
 
 ### ¿Cuántas horas de trabajo cuesta?
 
@@ -394,7 +395,7 @@ Son referencias académicas: los autores y sus universidades no avalan, patrocin
 
 Nara es la ayudante de Tookie. Cambia de cara según cómo viene tu mes, festeja tus logros y te acompaña en toda la app, sin retarte nunca.
 
-En la app hay 58 accesorios para vestirla a tu gusto, uno por zona. Vestirla es parte de Tookie+.
+En la app hay 59 accesorios para vestirla a tu gusto, uno por zona. Con tu primer gasto gana un buzo de regalo; el resto es parte de Tookie+.
 
 ## Empezás en tres pasos
 
@@ -410,12 +411,13 @@ Empezá gratis. Cuando quieras más, Tookie+ suma todas las herramientas, con 3 
 
 Lo esencial para saber a dónde va tu dinero.
 
-- Carga de gastos e ingresos, con historial y filtros
+- Carga de gastos e ingresos: 15 por semana, con historial y filtros
 - Escaneo de tickets con IA: 5 por mes
 - Categorías propias: 3 de gastos y 3 de ingresos
 - Metas de ahorro: 1
 - Revisión semanal y cierre de mes
 - Racha con un día de descanso por semana
+- Un buzo para Nara, de regalo con tu primer gasto
 - 38 monedas y 16 idiomas
 
 ### Tookie+
@@ -427,7 +429,7 @@ Todas las herramientas para ahorrar y pensar antes de comprar.
 
 3 días de prueba gratis para quien se suscribe por primera vez
 
-- Escaneos de tickets sin límite
+- Gastos, ingresos y escaneos de tickets sin límite
 - Categorías y metas sin límite
 - Presupuestos por categoría, con aviso antes de pasarte
 - «¿Lo compro?», interés compuesto, tipo de cambio y Dinero ahorrado
@@ -445,11 +447,11 @@ Precios en dólares estadounidenses. En tu tienda vas a ver el precio en tu mone
 
 ### ¿Tookie es gratis?
 
-Sí, Tookie es gratis para empezar. Con el plan gratis cargás gastos e ingresos, usás el historial y los filtros, escaneás 5 tickets por mes y armás tu primera meta de ahorro. Tookie+ es el plan pago, con el resto de las herramientas.
+Sí, Tookie es gratis para empezar. Con el plan gratis cargás hasta 15 gastos e ingresos por semana, usás el historial y los filtros, escaneás 5 tickets por mes y armás tu primera meta de ahorro. Tookie+ es el plan pago, con el resto de las herramientas.
 
 ### ¿Qué incluye Tookie+ y cuánto cuesta?
 
-Tookie+ cuesta US$ 29,99 por año o US$ 5,99 por mes. Si es tu primera vez con Tookie+, los dos planes empiezan con 3 días de prueba gratis. Suma escaneos sin límite, presupuestos, «¿Lo compro?», el Bloqueo de compras, gastos fijos y cuotas, tu patrimonio, metas y categorías sin límite, widgets en el iPhone, y logros y accesorios para Nara. En tu tienda vas a ver el precio en tu moneda.
+Tookie+ cuesta US$ 29,99 por año o US$ 5,99 por mes. Si es tu primera vez con Tookie+, los dos planes empiezan con 3 días de prueba gratis. Suma gastos, ingresos y escaneos sin límite, presupuestos, «¿Lo compro?», el Bloqueo de compras, gastos fijos y cuotas, tu patrimonio, metas y categorías sin límite, widgets en el iPhone, y logros y accesorios para Nara. En tu tienda vas a ver el precio en tu moneda.
 
 ### ¿Cómo cancelo Tookie+?
 
@@ -489,7 +491,7 @@ Es una función de Tookie+ que pone en pausa las apps de compras que elegís. Si
 
 ### ¿Quién es Nara?
 
-Nara es la ayudante de Tookie. Te acompaña en toda la app, cambia de cara según cómo viene tu mes, festeja tus logros y te muestra cómo se usa en el Paseo por Tookie. Con Tookie+ la vestís: 16 accesorios se usan de entrada y el resto se gana con los logros.
+Nara es la ayudante de Tookie. Te acompaña en toda la app, cambia de cara según cómo viene tu mes, festeja tus logros y te muestra cómo se usa en el Paseo por Tookie. Con tu primer gasto gana un buzo de regalo, con cualquier plan. Con Tookie+ la vestís entera: 16 accesorios se usan de entrada y el resto se gana con los logros.
 
 ### ¿En qué se diferencia Tookie de otras apps de gastos?
 
@@ -661,7 +663,7 @@ support@tookieapps.com
 
 URL: https://tookieapps.com/privacidad.html#en
 
-Last updated: November 18, 2026
+Last updated: November 26, 2026
 
 This policy explains what data the Tookie app (“the app”) handles, what it is used for and who it is shared with. The app is developed and operated by Santino Castrataro (“we”, “us”). It also explains what happens when you visit this website (section 14). If you have any questions, write to us at support@tookieapps.com.
 
@@ -763,6 +765,7 @@ What it receives: what is needed to sign in, for each purchase and for each noti
 - RevenueCat (subscription management).
 Purpose: validating App Store purchases and activating Tookie+.
 What it receives: your Tookie account identifier, information about your purchases and when you see the pricing screen.
+If you ask for a refund: when you ask Apple to refund a Tookie+ purchase, Apple asks us how it was used and RevenueCat answers on our behalf with usage data such as how long you have had your account, how much you used the app, how much you have bought and been refunded before, and whether the purchase included a free trial. It is used only so Apple can decide on the refund. It does not include your expenses, your income, your name or your email.
 - OpenAI (AI that reads receipts).
 Purpose: reading the data in a receipt photo.
 What it receives: the full receipt image (with any details visible in it), the list of categories and the names of your payment methods, only when you scan. OpenAI handles that data under its own terms for API customers.
@@ -817,7 +820,7 @@ support@tookieapps.com
 
 Dirección: https://tookieapps.com/privacidad.html#es
 
-Última actualización: 18 de noviembre de 2026
+Última actualización: 26 de noviembre de 2026
 
 Esta política explica qué datos maneja la aplicación Tookie (“la app”), para qué los usa y con quién se comparten. La app la desarrolla y opera Santino Castrataro (“nosotros”). También explica qué pasa cuando visitás este sitio web (sección 14). Si tenés dudas, escribinos a support@tookieapps.com.
 
@@ -919,6 +922,7 @@ Qué recibe: lo necesario para iniciar sesión, para cada compra y para cada avi
 - RevenueCat (gestión de suscripciones).
 Para qué: validar las compras de la App Store y activar Tookie+.
 Qué recibe: el identificador de tu cuenta de Tookie, la información de tus compras y cuándo ves la pantalla de precios.
+Si pedís un reembolso: cuando le pedís a Apple que te devuelva una compra de Tookie+, Apple nos pregunta cómo se usó y RevenueCat le responde en nuestro nombre con datos de uso como hace cuánto tenés la cuenta, cuánto usaste la app, cuánto compraste y te reembolsaron antes, y si la compra tuvo prueba gratis. Sirve solo para que Apple decida el reembolso. No incluye tus gastos, tus ingresos, tu nombre ni tu correo.
 - OpenAI (IA que lee los tickets).
 Para qué: leer los datos de la foto de un ticket.
 Qué recibe: la imagen completa del ticket (con cualquier dato que se vea en ella), la lista de categorías y los nombres de tus medios de pago, solo cuando escaneás. OpenAI trata esos datos según sus propias condiciones para empresas que usan su API.
