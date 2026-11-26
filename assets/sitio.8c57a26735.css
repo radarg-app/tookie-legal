@@ -1379,6 +1379,8 @@ transition: background-color var(--mov-rapido) ease;
 .red .icono { width: 20px; height: 20px; }
 .pie__base { margin-top: var(--e-xxxl); font-size: 14px; color: var(--tinta-tenue); }
 .pie__base p { padding-top: var(--e-xl); border-top: 1px solid var(--borde); }
+.pie__insignia { margin-top: var(--e-l); }
+.pie__insignia img { display: block; max-width: 100%; height: auto; }
 @media (min-width: 900px) {
 .pie__grilla { grid-template-columns: minmax(0, 1.4fr) repeat(2, minmax(0, 0.8fr)) minmax(0, 1.25fr); }
 .pie__marca { grid-column: auto; }
