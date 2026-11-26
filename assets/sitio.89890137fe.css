@@ -249,6 +249,9 @@ transition: transform var(--mov-rapido) ease, background-color var(--mov-rapido)
 @media (forced-colors: active) {
 .chip[aria-pressed="true"] { forced-color-adjust: none; background: Highlight; color: HighlightText; }
 }
+.insignia-superior { display: flex; justify-content: center; padding: var(--e-s) var(--e-l); background: var(--fondo); }
+.pagina--inicio .insignia-superior { background: var(--cielo-arriba); }
+.insignia-superior img { display: block; max-width: 100%; height: auto; }
 .encabezado {
 position: sticky;
 top: 0;
@@ -1379,8 +1382,6 @@ transition: background-color var(--mov-rapido) ease;
 .red .icono { width: 20px; height: 20px; }
 .pie__base { margin-top: var(--e-xxxl); font-size: 14px; color: var(--tinta-tenue); }
 .pie__base p { padding-top: var(--e-xl); border-top: 1px solid var(--borde); }
-.pie__insignia { margin-top: var(--e-l); }
-.pie__insignia img { display: block; max-width: 100%; height: auto; }
 @media (min-width: 900px) {
 .pie__grilla { grid-template-columns: minmax(0, 1.4fr) repeat(2, minmax(0, 0.8fr)) minmax(0, 1.25fr); }
 .pie__marca { grid-column: auto; }
@@ -1544,7 +1545,7 @@ animation-iteration-count: 1 !important;
 .vineta__tarjeta, .beneficio:nth-child(even) .vineta__tarjeta, .beneficio:hover .vineta__tarjeta { transform: none; }
 }
 @media print {
-.encabezado, .menu, .saltar, .nara, .atuendo, .colina, .legal-indice, .legal-indice-movil, .redes, .cielo, .festejo, .destellos, .logos__lista--copia { display: none !important; }
+.insignia-superior, .encabezado, .menu, .saltar, .nara, .atuendo, .colina, .legal-indice, .legal-indice-movil, .redes, .cielo, .festejo, .destellos, .logos__lista--copia { display: none !important; }
 .legal-cabeza, .heroe, .seccion--gris, .descargar, .seccion-nara { background: none !important; }
 .revelar { opacity: 1 !important; transform: none !important; }
 .funcion { display: grid !important; }

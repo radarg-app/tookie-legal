@@ -799,7 +799,7 @@ The app is not directed at children under 13, and we do not knowingly collect da
 
 ## 14. This website
 
-This website does not use cookies or any analytics or advertising tools, and it does not load anything from other websites except one image: the “Featured on Digivated” badge in the footer, which is requested from digivated.com, so that site can see your visit (IP address and browser) under its own policies. The fonts, all other images and Nara’s animations are served from the site itself. Whatever you type in the calculator on the home page is worked out in your browser and is not sent anywhere.
+This website does not use cookies or any analytics or advertising tools, and it does not load anything from other websites except one image: the “Featured on Digivated” badge at the top of the page, which is requested from digivated.com, so that site can see your visit (IP address and browser) under its own policies. The fonts, all other images and Nara’s animations are served from the site itself. Whatever you type in the calculator on the home page is worked out in your browser and is not sent anywhere.
 
 Like any web server, the service that hosts the site (currently GitHub Pages, by GitHub) may log technical data about each visit, such as the IP address, the browser and the page requested, to deliver it and keep it secure. GitHub handles those logs under its own policies.
 
@@ -956,7 +956,7 @@ La app no está dirigida a menores de 13 años y no recopilamos deliberadamente 
 
 ## 14. Este sitio web
 
-Este sitio no usa cookies ni herramientas de analítica o de publicidad, y no carga nada de otros sitios, salvo una imagen: la insignia «Featured on Digivated» del pie de página, que se pide a digivated.com, por lo que ese sitio puede ver tu visita (dirección IP y navegador) según sus propias políticas. Las fuentes, las demás imágenes y las animaciones de Nara se sirven desde el propio sitio. Lo que escribís en la calculadora de la página de inicio se calcula en tu navegador y no se envía a ningún lado.
+Este sitio no usa cookies ni herramientas de analítica o de publicidad, y no carga nada de otros sitios, salvo una imagen: la insignia «Featured on Digivated» de la parte de arriba de la página, que se pide a digivated.com, por lo que ese sitio puede ver tu visita (dirección IP y navegador) según sus propias políticas. Las fuentes, las demás imágenes y las animaciones de Nara se sirven desde el propio sitio. Lo que escribís en la calculadora de la página de inicio se calcula en tu navegador y no se envía a ningún lado.
 
 Como cualquier servidor web, el servicio que aloja el sitio (hoy, GitHub Pages, de GitHub) puede registrar datos técnicos de cada visita, como la dirección IP, el navegador y la página pedida, para entregarla y protegerla. Esos registros los maneja GitHub según sus propias políticas.
 
