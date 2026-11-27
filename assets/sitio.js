@@ -8,6 +8,7 @@
 //      que cuentan, el link del menú de la sección que se está leyendo y el selector de funciones.
 //   6. Carrusel de la ciencia.
 //   7. Aviso de visitas (27/11/2026): una señal por visita a la función `visita-web` de Supabase.
+//   8. Lista de espera (27/11/2026): el campo de correo del héroe (sin JavaScript no se muestra).
 //      Con "Reducir movimiento" (o sin IntersectionObserver) no se anima nada: todo se ve de entrada.
 (function () {
   'use strict';
@@ -494,5 +495,107 @@
       };
       document.addEventListener('visibilitychange', alVer);
     }
+  })();
+
+  // 8. Lista de espera (27/11/2026; docs/LISTA_DE_ESPERA.md) -------------------------------------------
+  // El campo de correo de la primera sección: lo manda a la función `lista-espera` de Supabase, que solo
+  // acepta pedidos de tookieapps.com. En la compu (localhost) NO manda nada: simula que salió bien, para
+  // poder ver cómo queda. Se manda como texto (no JSON) para que el navegador no haga un pedido previo.
+  (function () {
+    var form = document.querySelector('[data-lista-espera]');
+    if (!form) return;
+    var destino = form.getAttribute('data-lista-espera');
+    var campo = form.querySelector('input[name="email"]');
+    var trampa = form.querySelector('input[name="sitio"]');
+    var boton = form.querySelector('button[type="submit"]');
+    var estado = form.querySelector('[role="status"]');
+    var host = location.hostname;
+    var deVerdad = host === 'tookieapps.com' || host === 'www.tookieapps.com';
+    var CLAVE = 'tookie-lista-espera';
+
+    var mostrar = function (tipo, texto) {
+      if (tipo) form.setAttribute('data-estado', tipo);
+      else form.removeAttribute('data-estado');
+      estado.textContent = texto || '';
+      campo.setAttribute('aria-invalid', tipo === 'error' ? 'true' : 'false');
+    };
+    var anotado = function () {
+      mostrar('listo', form.getAttribute('data-listo'));
+      campo.readOnly = true;
+      boton.disabled = true;
+    };
+    try {
+      if (localStorage.getItem(CLAVE) === '1') {
+        anotado();
+        return;
+      }
+    } catch (error) {
+      /* sin memoria del navegador: se puede volver a anotar, y el servidor no duplica */
+    }
+    var correoValido = function (texto) {
+      return /^[^\s@]+@[^\s@]+\.[A-Za-z]{2,24}$/.test(texto) && texto.length <= 254;
+    };
+    var origen = function () {
+      try {
+        var o = new URLSearchParams(location.search).get('utm_source') || '';
+        if (!o && document.referrer) {
+          var ref = new URL(document.referrer).hostname;
+          if (ref !== host) o = ref;
+        }
+        return o;
+      } catch (error) {
+        return '';
+      }
+    };
+    campo.addEventListener('input', function () {
+      if (form.getAttribute('data-estado') === 'error') mostrar(null, '');
+    });
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (boton.disabled) return;
+      var email = campo.value.trim();
+      if (!correoValido(email)) {
+        mostrar('error', form.getAttribute('data-invalido'));
+        campo.focus();
+        return;
+      }
+      boton.disabled = true;
+      mostrar('enviando', form.getAttribute('data-enviando'));
+      var listo = function () {
+        try {
+          localStorage.setItem(CLAVE, '1');
+        } catch (error) {
+          /* nada */
+        }
+        anotado();
+      };
+      var fallo = function (tipo) {
+        boton.disabled = false;
+        mostrar('error', form.getAttribute(tipo === 'email' ? 'data-invalido' : 'data-error'));
+      };
+      if (!deVerdad || !window.fetch) {
+        window.setTimeout(deVerdad ? function () { fallo(); } : listo, 600);
+        return;
+      }
+      var datos = {
+        email: email,
+        sitio: trampa ? trampa.value : '',
+        idioma: (raiz.lang || '').indexOf('es') === 0 ? 'es' : 'en',
+        pagina: location.pathname,
+        origen: origen(),
+      };
+      fetch(destino, { method: 'POST', headers: { 'Content-Type': 'text/plain' }, body: JSON.stringify(datos) })
+        .then(function (r) {
+          return r.json().catch(function () {
+            return {};
+          }).then(function (cuerpo) {
+            if (r.ok && cuerpo.ok) listo();
+            else fallo(cuerpo.error);
+          });
+        })
+        .catch(function () {
+          fallo();
+        });
+    });
   })();
 })();
