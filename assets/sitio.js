@@ -6,6 +6,8 @@
 //   4. Año del pie.
 //   5. Movimiento de la web (17/11/2026): barra de avance de lectura, aparecer al entrar en pantalla, cifras
 //      que cuentan, el link del menú de la sección que se está leyendo y el selector de funciones.
+//   6. Carrusel de la ciencia.
+//   7. Aviso de visitas (27/11/2026): una señal por visita a la función `visita-web` de Supabase.
 //      Con "Reducir movimiento" (o sin IntersectionObserver) no se anima nada: todo se ve de entrada.
 (function () {
   'use strict';
@@ -431,4 +433,66 @@
     }
     marcar();
   });
+
+  // 7. Aviso de visitas (27/11/2026; docs/AVISO_VISITAS_WEB.md) ----------------------------------------
+  // Una señal por visita (una vez por pestaña) a la función `visita-web` de Supabase, que le avisa a Santi
+  // al iPhone. Solo en tookieapps.com. Sin cookies: manda la página, el idioma, la zona horaria, si es
+  // celular y el sitio de donde vino (solo el dominio). Para que no cuente tus propias visitas, abrí una vez
+  // tookieapps.com/?no-contar=1 en ese navegador (y ?contar=1 para volver a contarlas).
+  (function () {
+    var destino = raiz.getAttribute('data-visitas');
+    var host = location.hostname;
+    if (!destino || (host !== 'tookieapps.com' && host !== 'www.tookieapps.com')) return;
+    if (navigator.webdriver || !navigator.sendBeacon) return;
+    try {
+      var params = new URLSearchParams(location.search);
+      if (params.get('no-contar') === '1') localStorage.setItem('tookie-no-contar', '1');
+      if (params.get('contar') === '1') localStorage.removeItem('tookie-no-contar');
+      if (localStorage.getItem('tookie-no-contar') === '1') return;
+      if (sessionStorage.getItem('tookie-visita') === '1') return;
+    } catch (error) {
+      return;
+    }
+    var origen = '';
+    try {
+      origen = new URLSearchParams(location.search).get('utm_source') || '';
+      if (!origen && document.referrer) {
+        var ref = new URL(document.referrer).hostname;
+        if (ref !== host) origen = ref;
+      }
+    } catch (error) {
+      origen = '';
+    }
+    var mandar = function () {
+      try {
+        sessionStorage.setItem('tookie-visita', '1');
+        var zona = '';
+        try {
+          zona = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+        } catch (error) {
+          zona = '';
+        }
+        var datos = {
+          pagina: location.pathname,
+          idioma: (raiz.lang || '').indexOf('es') === 0 ? 'es' : 'en',
+          zona: zona,
+          celular: /Mobi|iPhone|iPad|Android/i.test(navigator.userAgent),
+          origen: origen,
+        };
+        navigator.sendBeacon(destino, new Blob([JSON.stringify(datos)], { type: 'text/plain' }));
+      } catch (error) {
+        /* sin aviso, la página sigue igual */
+      }
+    };
+    // Una página precargada en segundo plano no es una visita hasta que se mira.
+    if (document.visibilityState === 'visible') mandar();
+    else {
+      var alVer = function () {
+        if (document.visibilityState !== 'visible') return;
+        document.removeEventListener('visibilitychange', alVer);
+        mandar();
+      };
+      document.addEventListener('visibilitychange', alVer);
+    }
+  })();
 })();
